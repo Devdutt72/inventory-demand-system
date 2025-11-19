@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+setup_db.py
+generate_history.py

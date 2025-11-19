@@ -1,0 +1,2556 @@
+date,product_name,weather,units_sold,status
+2024-11-20,Heater,Rain,67,OK
+2024-11-20,Blanket,Rain,47,OK
+2024-11-20,Cotton Shirt,Rain,4,OK
+2024-11-20,Umbrella,Rain,4,OK
+2024-11-20,Gumboots,Rain,5,OK
+2024-11-20,Coffee,Rain,222,OK
+2024-11-20,Namkeen,Rain,71,OK
+2024-11-21,Heater,Rain,49,OK
+2024-11-21,Blanket,Rain,44,OK
+2024-11-21,Cotton Shirt,Rain,5,OK
+2024-11-21,Umbrella,Rain,4,OK
+2024-11-21,Gumboots,Rain,5,OK
+2024-11-21,Coffee,Rain,227,OK
+2024-11-21,Namkeen,Rain,66,OK
+2024-11-22,Heater,Rain,65,OK
+2024-11-22,Blanket,Rain,51,OK
+2024-11-22,Cotton Shirt,Rain,4,OK
+2024-11-22,Umbrella,Rain,3,OK
+2024-11-22,Gumboots,Rain,5,OK
+2024-11-22,Coffee,Rain,171,OK
+2024-11-22,Namkeen,Rain,68,OK
+2024-11-23,Heater,Clear,49,OK
+2024-11-23,Blanket,Clear,37,OK
+2024-11-23,Cotton Shirt,Clear,10,OK
+2024-11-23,Umbrella,Clear,0,OK
+2024-11-23,Gumboots,Clear,0,OK
+2024-11-23,Coffee,Clear,73,OK
+2024-11-23,Namkeen,Clear,50,OK
+2024-11-24,Heater,Clear,41,OK
+2024-11-24,Blanket,Clear,43,OK
+2024-11-24,Cotton Shirt,Clear,11,OK
+2024-11-24,Umbrella,Clear,0,OK
+2024-11-24,Gumboots,Clear,0,OK
+2024-11-24,Coffee,Clear,75,OK
+2024-11-24,Namkeen,Clear,60,OK
+2024-11-25,Heater,Clear,55,OK
+2024-11-25,Blanket,Clear,43,OK
+2024-11-25,Cotton Shirt,Clear,11,OK
+2024-11-25,Umbrella,Clear,0,OK
+2024-11-25,Gumboots,Clear,0,OK
+2024-11-25,Coffee,Clear,87,OK
+2024-11-25,Namkeen,Clear,69,OK
+2024-11-26,Heater,Clear,54,OK
+2024-11-26,Blanket,Clear,46,OK
+2024-11-26,Cotton Shirt,Clear,11,OK
+2024-11-26,Umbrella,Clear,0,OK
+2024-11-26,Gumboots,Clear,1,OK
+2024-11-26,Coffee,Clear,76,OK
+2024-11-26,Namkeen,Clear,50,OK
+2024-11-27,Heater,Clear,53,OK
+2024-11-27,Blanket,Clear,37,OK
+2024-11-27,Cotton Shirt,Clear,10,OK
+2024-11-27,Umbrella,Clear,0,OK
+2024-11-27,Gumboots,Clear,0,OK
+2024-11-27,Coffee,Clear,64,OK
+2024-11-27,Namkeen,Clear,52,OK
+2024-11-28,Heater,Clear,54,OK
+2024-11-28,Blanket,Clear,41,OK
+2024-11-28,Cotton Shirt,Clear,11,OK
+2024-11-28,Umbrella,Clear,0,OK
+2024-11-28,Gumboots,Clear,0,OK
+2024-11-28,Coffee,Clear,89,OK
+2024-11-28,Namkeen,Clear,64,OK
+2024-11-29,Heater,Clear,50,OK
+2024-11-29,Blanket,Clear,40,OK
+2024-11-29,Cotton Shirt,Clear,11,OK
+2024-11-29,Umbrella,Clear,0,OK
+2024-11-29,Gumboots,Clear,1,OK
+2024-11-29,Coffee,Clear,93,OK
+2024-11-29,Namkeen,Clear,60,OK
+2024-11-30,Heater,Rain,52,OK
+2024-11-30,Blanket,Rain,42,OK
+2024-11-30,Cotton Shirt,Rain,4,OK
+2024-11-30,Umbrella,Rain,3,OK
+2024-11-30,Gumboots,Rain,5,OK
+2024-11-30,Coffee,Rain,200,OK
+2024-11-30,Namkeen,Rain,74,OK
+2024-12-01,Heater,Clear,46,OK
+2024-12-01,Blanket,Clear,36,OK
+2024-12-01,Cotton Shirt,Clear,8,OK
+2024-12-01,Umbrella,Clear,0,OK
+2024-12-01,Gumboots,Clear,0,OK
+2024-12-01,Coffee,Clear,70,OK
+2024-12-01,Namkeen,Clear,66,OK
+2024-12-02,Heater,Clear,49,OK
+2024-12-02,Blanket,Clear,42,OK
+2024-12-02,Cotton Shirt,Clear,8,OK
+2024-12-02,Umbrella,Clear,0,OK
+2024-12-02,Gumboots,Clear,0,OK
+2024-12-02,Coffee,Clear,68,OK
+2024-12-02,Namkeen,Clear,69,OK
+2024-12-03,Heater,Rain,51,OK
+2024-12-03,Blanket,Rain,48,OK
+2024-12-03,Cotton Shirt,Rain,5,OK
+2024-12-03,Umbrella,Rain,3,OK
+2024-12-03,Gumboots,Rain,4,OK
+2024-12-03,Coffee,Rain,191,OK
+2024-12-03,Namkeen,Rain,59,OK
+2024-12-04,Heater,Clear,43,OK
+2024-12-04,Blanket,Clear,35,OK
+2024-12-04,Cotton Shirt,Clear,10,OK
+2024-12-04,Umbrella,Clear,0,OK
+2024-12-04,Gumboots,Clear,0,OK
+2024-12-04,Coffee,Clear,65,OK
+2024-12-04,Namkeen,Clear,62,OK
+2024-12-05,Heater,Clear,59,OK
+2024-12-05,Blanket,Clear,42,OK
+2024-12-05,Cotton Shirt,Clear,10,OK
+2024-12-05,Umbrella,Clear,0,OK
+2024-12-05,Gumboots,Clear,0,OK
+2024-12-05,Coffee,Clear,77,OK
+2024-12-05,Namkeen,Clear,69,OK
+2024-12-06,Heater,Clear,45,OK
+2024-12-06,Blanket,Clear,44,OK
+2024-12-06,Cotton Shirt,Clear,11,OK
+2024-12-06,Umbrella,Clear,0,OK
+2024-12-06,Gumboots,Clear,1,OK
+2024-12-06,Coffee,Clear,84,OK
+2024-12-06,Namkeen,Clear,67,OK
+2024-12-07,Heater,Clear,50,OK
+2024-12-07,Blanket,Clear,38,OK
+2024-12-07,Cotton Shirt,Clear,9,OK
+2024-12-07,Umbrella,Clear,0,OK
+2024-12-07,Gumboots,Clear,0,OK
+2024-12-07,Coffee,Clear,73,OK
+2024-12-07,Namkeen,Clear,49,OK
+2024-12-08,Heater,Clear,50,OK
+2024-12-08,Blanket,Clear,35,OK
+2024-12-08,Cotton Shirt,Clear,10,OK
+2024-12-08,Umbrella,Clear,0,OK
+2024-12-08,Gumboots,Clear,1,OK
+2024-12-08,Coffee,Clear,91,OK
+2024-12-08,Namkeen,Clear,65,OK
+2024-12-09,Heater,Clear,56,OK
+2024-12-09,Blanket,Clear,37,OK
+2024-12-09,Cotton Shirt,Clear,10,OK
+2024-12-09,Umbrella,Clear,0,OK
+2024-12-09,Gumboots,Clear,1,OK
+2024-12-09,Coffee,Clear,71,OK
+2024-12-09,Namkeen,Clear,57,OK
+2024-12-10,Heater,Clear,49,OK
+2024-12-10,Blanket,Clear,47,OK
+2024-12-10,Cotton Shirt,Clear,9,OK
+2024-12-10,Umbrella,Clear,0,OK
+2024-12-10,Gumboots,Clear,1,OK
+2024-12-10,Coffee,Clear,95,OK
+2024-12-10,Namkeen,Clear,57,OK
+2024-12-11,Heater,Clear,56,OK
+2024-12-11,Blanket,Clear,35,OK
+2024-12-11,Cotton Shirt,Clear,8,OK
+2024-12-11,Umbrella,Clear,0,OK
+2024-12-11,Gumboots,Clear,1,OK
+2024-12-11,Coffee,Clear,80,OK
+2024-12-11,Namkeen,Clear,49,OK
+2024-12-12,Heater,Clear,42,OK
+2024-12-12,Blanket,Clear,33,OK
+2024-12-12,Cotton Shirt,Clear,9,OK
+2024-12-12,Umbrella,Clear,0,OK
+2024-12-12,Gumboots,Clear,1,OK
+2024-12-12,Coffee,Clear,76,OK
+2024-12-12,Namkeen,Clear,71,OK
+2024-12-13,Heater,Clear,59,OK
+2024-12-13,Blanket,Clear,35,OK
+2024-12-13,Cotton Shirt,Clear,9,OK
+2024-12-13,Umbrella,Clear,0,OK
+2024-12-13,Gumboots,Clear,0,OK
+2024-12-13,Coffee,Clear,69,OK
+2024-12-13,Namkeen,Clear,56,OK
+2024-12-14,Heater,Rain,64,OK
+2024-12-14,Blanket,Rain,52,OK
+2024-12-14,Cotton Shirt,Rain,5,OK
+2024-12-14,Umbrella,Rain,3,OK
+2024-12-14,Gumboots,Rain,4,OK
+2024-12-14,Coffee,Rain,191,OK
+2024-12-14,Namkeen,Rain,74,OK
+2024-12-15,Heater,Clear,54,OK
+2024-12-15,Blanket,Clear,39,OK
+2024-12-15,Cotton Shirt,Clear,9,OK
+2024-12-15,Umbrella,Clear,0,OK
+2024-12-15,Gumboots,Clear,1,OK
+2024-12-15,Coffee,Clear,66,OK
+2024-12-15,Namkeen,Clear,58,OK
+2024-12-16,Heater,Clear,59,OK
+2024-12-16,Blanket,Clear,45,OK
+2024-12-16,Cotton Shirt,Clear,11,OK
+2024-12-16,Umbrella,Clear,0,OK
+2024-12-16,Gumboots,Clear,1,OK
+2024-12-16,Coffee,Clear,88,OK
+2024-12-16,Namkeen,Clear,62,OK
+2024-12-17,Heater,Clear,45,OK
+2024-12-17,Blanket,Clear,42,OK
+2024-12-17,Cotton Shirt,Clear,9,OK
+2024-12-17,Umbrella,Clear,0,OK
+2024-12-17,Gumboots,Clear,1,OK
+2024-12-17,Coffee,Clear,86,OK
+2024-12-17,Namkeen,Clear,62,OK
+2024-12-18,Heater,Clear,55,OK
+2024-12-18,Blanket,Clear,32,OK
+2024-12-18,Cotton Shirt,Clear,8,OK
+2024-12-18,Umbrella,Clear,0,OK
+2024-12-18,Gumboots,Clear,0,OK
+2024-12-18,Coffee,Clear,86,OK
+2024-12-18,Namkeen,Clear,52,OK
+2024-12-19,Heater,Rain,59,OK
+2024-12-19,Blanket,Rain,36,OK
+2024-12-19,Cotton Shirt,Rain,5,OK
+2024-12-19,Umbrella,Rain,4,OK
+2024-12-19,Gumboots,Rain,5,OK
+2024-12-19,Coffee,Rain,172,OK
+2024-12-19,Namkeen,Rain,59,OK
+2024-12-20,Heater,Clear,45,OK
+2024-12-20,Blanket,Clear,34,OK
+2024-12-20,Cotton Shirt,Clear,11,OK
+2024-12-20,Umbrella,Clear,0,OK
+2024-12-20,Gumboots,Clear,1,OK
+2024-12-20,Coffee,Clear,74,OK
+2024-12-20,Namkeen,Clear,66,OK
+2024-12-21,Heater,Clear,56,OK
+2024-12-21,Blanket,Clear,37,OK
+2024-12-21,Cotton Shirt,Clear,11,OK
+2024-12-21,Umbrella,Clear,0,OK
+2024-12-21,Gumboots,Clear,0,OK
+2024-12-21,Coffee,Clear,65,OK
+2024-12-21,Namkeen,Clear,60,OK
+2024-12-22,Heater,Clear,54,OK
+2024-12-22,Blanket,Clear,38,OK
+2024-12-22,Cotton Shirt,Clear,9,OK
+2024-12-22,Umbrella,Clear,0,OK
+2024-12-22,Gumboots,Clear,0,OK
+2024-12-22,Coffee,Clear,87,OK
+2024-12-22,Namkeen,Clear,57,OK
+2024-12-23,Heater,Clear,58,OK
+2024-12-23,Blanket,Clear,39,OK
+2024-12-23,Cotton Shirt,Clear,9,OK
+2024-12-23,Umbrella,Clear,0,OK
+2024-12-23,Gumboots,Clear,0,OK
+2024-12-23,Coffee,Clear,79,OK
+2024-12-23,Namkeen,Clear,59,OK
+2024-12-24,Heater,Clear,58,OK
+2024-12-24,Blanket,Clear,36,OK
+2024-12-24,Cotton Shirt,Clear,11,OK
+2024-12-24,Umbrella,Clear,0,OK
+2024-12-24,Gumboots,Clear,0,OK
+2024-12-24,Coffee,Clear,69,OK
+2024-12-24,Namkeen,Clear,64,OK
+2024-12-25,Heater,Clear,54,OK
+2024-12-25,Blanket,Clear,32,OK
+2024-12-25,Cotton Shirt,Clear,11,OK
+2024-12-25,Umbrella,Clear,0,OK
+2024-12-25,Gumboots,Clear,1,OK
+2024-12-25,Coffee,Clear,76,OK
+2024-12-25,Namkeen,Clear,51,OK
+2024-12-26,Heater,Clear,50,OK
+2024-12-26,Blanket,Clear,38,OK
+2024-12-26,Cotton Shirt,Clear,11,OK
+2024-12-26,Umbrella,Clear,0,OK
+2024-12-26,Gumboots,Clear,1,OK
+2024-12-26,Coffee,Clear,95,OK
+2024-12-26,Namkeen,Clear,52,OK
+2024-12-27,Heater,Clear,53,OK
+2024-12-27,Blanket,Clear,46,OK
+2024-12-27,Cotton Shirt,Clear,8,OK
+2024-12-27,Umbrella,Clear,0,OK
+2024-12-27,Gumboots,Clear,0,OK
+2024-12-27,Coffee,Clear,79,OK
+2024-12-27,Namkeen,Clear,51,OK
+2024-12-28,Heater,Clear,53,OK
+2024-12-28,Blanket,Clear,41,OK
+2024-12-28,Cotton Shirt,Clear,9,OK
+2024-12-28,Umbrella,Clear,0,OK
+2024-12-28,Gumboots,Clear,1,OK
+2024-12-28,Coffee,Clear,71,OK
+2024-12-28,Namkeen,Clear,67,OK
+2024-12-29,Heater,Rain,51,OK
+2024-12-29,Blanket,Rain,38,OK
+2024-12-29,Cotton Shirt,Rain,4,OK
+2024-12-29,Umbrella,Rain,4,OK
+2024-12-29,Gumboots,Rain,4,OK
+2024-12-29,Coffee,Rain,161,OK
+2024-12-29,Namkeen,Rain,81,OK
+2024-12-30,Heater,Clear,43,OK
+2024-12-30,Blanket,Clear,43,OK
+2024-12-30,Cotton Shirt,Clear,10,OK
+2024-12-30,Umbrella,Clear,0,OK
+2024-12-30,Gumboots,Clear,1,OK
+2024-12-30,Coffee,Clear,90,OK
+2024-12-30,Namkeen,Clear,50,OK
+2024-12-31,Heater,Clear,54,OK
+2024-12-31,Blanket,Clear,33,OK
+2024-12-31,Cotton Shirt,Clear,11,OK
+2024-12-31,Umbrella,Clear,0,OK
+2024-12-31,Gumboots,Clear,0,OK
+2024-12-31,Coffee,Clear,72,OK
+2024-12-31,Namkeen,Clear,71,OK
+2025-01-01,Heater,Clear,55,OK
+2025-01-01,Blanket,Clear,39,OK
+2025-01-01,Cotton Shirt,Clear,8,OK
+2025-01-01,Umbrella,Clear,0,OK
+2025-01-01,Gumboots,Clear,0,OK
+2025-01-01,Coffee,Clear,94,OK
+2025-01-01,Namkeen,Clear,62,OK
+2025-01-02,Heater,Clear,46,OK
+2025-01-02,Blanket,Clear,41,OK
+2025-01-02,Cotton Shirt,Clear,8,OK
+2025-01-02,Umbrella,Clear,0,OK
+2025-01-02,Gumboots,Clear,0,OK
+2025-01-02,Coffee,Clear,73,OK
+2025-01-02,Namkeen,Clear,68,OK
+2025-01-03,Heater,Clear,53,OK
+2025-01-03,Blanket,Clear,45,OK
+2025-01-03,Cotton Shirt,Clear,9,OK
+2025-01-03,Umbrella,Clear,0,OK
+2025-01-03,Gumboots,Clear,0,OK
+2025-01-03,Coffee,Clear,68,OK
+2025-01-03,Namkeen,Clear,61,OK
+2025-01-04,Heater,Clear,48,OK
+2025-01-04,Blanket,Clear,47,OK
+2025-01-04,Cotton Shirt,Clear,10,OK
+2025-01-04,Umbrella,Clear,0,OK
+2025-01-04,Gumboots,Clear,0,OK
+2025-01-04,Coffee,Clear,86,OK
+2025-01-04,Namkeen,Clear,49,OK
+2025-01-05,Heater,Rain,67,OK
+2025-01-05,Blanket,Rain,46,OK
+2025-01-05,Cotton Shirt,Rain,4,OK
+2025-01-05,Umbrella,Rain,4,OK
+2025-01-05,Gumboots,Rain,5,OK
+2025-01-05,Coffee,Rain,195,OK
+2025-01-05,Namkeen,Rain,79,OK
+2025-01-06,Heater,Clear,40,OK
+2025-01-06,Blanket,Clear,35,OK
+2025-01-06,Cotton Shirt,Clear,10,OK
+2025-01-06,Umbrella,Clear,0,OK
+2025-01-06,Gumboots,Clear,1,OK
+2025-01-06,Coffee,Clear,79,OK
+2025-01-06,Namkeen,Clear,61,OK
+2025-01-07,Heater,Clear,50,OK
+2025-01-07,Blanket,Clear,43,OK
+2025-01-07,Cotton Shirt,Clear,8,OK
+2025-01-07,Umbrella,Clear,0,OK
+2025-01-07,Gumboots,Clear,1,OK
+2025-01-07,Coffee,Clear,78,OK
+2025-01-07,Namkeen,Clear,51,OK
+2025-01-08,Heater,Clear,54,OK
+2025-01-08,Blanket,Clear,46,OK
+2025-01-08,Cotton Shirt,Clear,10,OK
+2025-01-08,Umbrella,Clear,0,OK
+2025-01-08,Gumboots,Clear,0,OK
+2025-01-08,Coffee,Clear,95,OK
+2025-01-08,Namkeen,Clear,50,OK
+2025-01-09,Heater,Clear,46,OK
+2025-01-09,Blanket,Clear,44,OK
+2025-01-09,Cotton Shirt,Clear,9,OK
+2025-01-09,Umbrella,Clear,0,OK
+2025-01-09,Gumboots,Clear,0,OK
+2025-01-09,Coffee,Clear,90,OK
+2025-01-09,Namkeen,Clear,62,OK
+2025-01-10,Heater,Clear,50,OK
+2025-01-10,Blanket,Clear,41,OK
+2025-01-10,Cotton Shirt,Clear,11,OK
+2025-01-10,Umbrella,Clear,0,OK
+2025-01-10,Gumboots,Clear,1,OK
+2025-01-10,Coffee,Clear,81,OK
+2025-01-10,Namkeen,Clear,55,OK
+2025-01-11,Heater,Clear,55,OK
+2025-01-11,Blanket,Clear,40,OK
+2025-01-11,Cotton Shirt,Clear,11,OK
+2025-01-11,Umbrella,Clear,0,OK
+2025-01-11,Gumboots,Clear,1,OK
+2025-01-11,Coffee,Clear,80,OK
+2025-01-11,Namkeen,Clear,55,OK
+2025-01-12,Heater,Clear,41,OK
+2025-01-12,Blanket,Clear,41,OK
+2025-01-12,Cotton Shirt,Clear,8,OK
+2025-01-12,Umbrella,Clear,0,OK
+2025-01-12,Gumboots,Clear,0,OK
+2025-01-12,Coffee,Clear,79,OK
+2025-01-12,Namkeen,Clear,68,OK
+2025-01-13,Heater,Clear,53,OK
+2025-01-13,Blanket,Clear,35,OK
+2025-01-13,Cotton Shirt,Clear,9,OK
+2025-01-13,Umbrella,Clear,0,OK
+2025-01-13,Gumboots,Clear,1,OK
+2025-01-13,Coffee,Clear,86,OK
+2025-01-13,Namkeen,Clear,55,OK
+2025-01-14,Heater,Rain,71,OK
+2025-01-14,Blanket,Rain,46,OK
+2025-01-14,Cotton Shirt,Rain,5,OK
+2025-01-14,Umbrella,Rain,4,OK
+2025-01-14,Gumboots,Rain,5,OK
+2025-01-14,Coffee,Rain,173,OK
+2025-01-14,Namkeen,Rain,79,OK
+2025-01-15,Heater,Clear,50,OK
+2025-01-15,Blanket,Clear,38,OK
+2025-01-15,Cotton Shirt,Clear,9,OK
+2025-01-15,Umbrella,Clear,0,OK
+2025-01-15,Gumboots,Clear,0,OK
+2025-01-15,Coffee,Clear,94,OK
+2025-01-15,Namkeen,Clear,53,OK
+2025-01-16,Heater,Clear,50,OK
+2025-01-16,Blanket,Clear,34,OK
+2025-01-16,Cotton Shirt,Clear,8,OK
+2025-01-16,Umbrella,Clear,0,OK
+2025-01-16,Gumboots,Clear,1,OK
+2025-01-16,Coffee,Clear,64,OK
+2025-01-16,Namkeen,Clear,53,OK
+2025-01-17,Heater,Clear,42,OK
+2025-01-17,Blanket,Clear,42,OK
+2025-01-17,Cotton Shirt,Clear,9,OK
+2025-01-17,Umbrella,Clear,0,OK
+2025-01-17,Gumboots,Clear,1,OK
+2025-01-17,Coffee,Clear,66,OK
+2025-01-17,Namkeen,Clear,65,OK
+2025-01-18,Heater,Clear,43,OK
+2025-01-18,Blanket,Clear,44,OK
+2025-01-18,Cotton Shirt,Clear,8,OK
+2025-01-18,Umbrella,Clear,0,OK
+2025-01-18,Gumboots,Clear,1,OK
+2025-01-18,Coffee,Clear,79,OK
+2025-01-18,Namkeen,Clear,66,OK
+2025-01-19,Heater,Clear,59,OK
+2025-01-19,Blanket,Clear,37,OK
+2025-01-19,Cotton Shirt,Clear,8,OK
+2025-01-19,Umbrella,Clear,0,OK
+2025-01-19,Gumboots,Clear,0,OK
+2025-01-19,Coffee,Clear,85,OK
+2025-01-19,Namkeen,Clear,57,OK
+2025-01-20,Heater,Clear,54,OK
+2025-01-20,Blanket,Clear,36,OK
+2025-01-20,Cotton Shirt,Clear,10,OK
+2025-01-20,Umbrella,Clear,0,OK
+2025-01-20,Gumboots,Clear,1,OK
+2025-01-20,Coffee,Clear,94,OK
+2025-01-20,Namkeen,Clear,50,OK
+2025-01-21,Heater,Clear,51,OK
+2025-01-21,Blanket,Clear,32,OK
+2025-01-21,Cotton Shirt,Clear,11,OK
+2025-01-21,Umbrella,Clear,0,OK
+2025-01-21,Gumboots,Clear,1,OK
+2025-01-21,Coffee,Clear,68,OK
+2025-01-21,Namkeen,Clear,62,OK
+2025-01-22,Heater,Clear,43,OK
+2025-01-22,Blanket,Clear,45,OK
+2025-01-22,Cotton Shirt,Clear,11,OK
+2025-01-22,Umbrella,Clear,0,OK
+2025-01-22,Gumboots,Clear,0,OK
+2025-01-22,Coffee,Clear,92,OK
+2025-01-22,Namkeen,Clear,51,OK
+2025-01-23,Heater,Clear,44,OK
+2025-01-23,Blanket,Clear,37,OK
+2025-01-23,Cotton Shirt,Clear,11,OK
+2025-01-23,Umbrella,Clear,0,OK
+2025-01-23,Gumboots,Clear,0,OK
+2025-01-23,Coffee,Clear,84,OK
+2025-01-23,Namkeen,Clear,69,OK
+2025-01-24,Heater,Clear,44,OK
+2025-01-24,Blanket,Clear,44,OK
+2025-01-24,Cotton Shirt,Clear,9,OK
+2025-01-24,Umbrella,Clear,0,OK
+2025-01-24,Gumboots,Clear,0,OK
+2025-01-24,Coffee,Clear,92,OK
+2025-01-24,Namkeen,Clear,67,OK
+2025-01-25,Heater,Clear,45,OK
+2025-01-25,Blanket,Clear,33,OK
+2025-01-25,Cotton Shirt,Clear,11,OK
+2025-01-25,Umbrella,Clear,0,OK
+2025-01-25,Gumboots,Clear,0,OK
+2025-01-25,Coffee,Clear,92,OK
+2025-01-25,Namkeen,Clear,65,OK
+2025-01-26,Heater,Clear,49,OK
+2025-01-26,Blanket,Clear,44,OK
+2025-01-26,Cotton Shirt,Clear,9,OK
+2025-01-26,Umbrella,Clear,0,OK
+2025-01-26,Gumboots,Clear,1,OK
+2025-01-26,Coffee,Clear,77,OK
+2025-01-26,Namkeen,Clear,61,OK
+2025-01-27,Heater,Clear,58,OK
+2025-01-27,Blanket,Clear,37,OK
+2025-01-27,Cotton Shirt,Clear,10,OK
+2025-01-27,Umbrella,Clear,0,OK
+2025-01-27,Gumboots,Clear,0,OK
+2025-01-27,Coffee,Clear,74,OK
+2025-01-27,Namkeen,Clear,70,OK
+2025-01-28,Heater,Rain,60,OK
+2025-01-28,Blanket,Rain,45,OK
+2025-01-28,Cotton Shirt,Rain,5,OK
+2025-01-28,Umbrella,Rain,3,OK
+2025-01-28,Gumboots,Rain,4,OK
+2025-01-28,Coffee,Rain,183,OK
+2025-01-28,Namkeen,Rain,79,OK
+2025-01-29,Heater,Rain,50,OK
+2025-01-29,Blanket,Rain,43,OK
+2025-01-29,Cotton Shirt,Rain,4,OK
+2025-01-29,Umbrella,Rain,4,OK
+2025-01-29,Gumboots,Rain,4,OK
+2025-01-29,Coffee,Rain,235,OK
+2025-01-29,Namkeen,Rain,66,OK
+2025-01-30,Heater,Clear,59,OK
+2025-01-30,Blanket,Clear,46,OK
+2025-01-30,Cotton Shirt,Clear,10,OK
+2025-01-30,Umbrella,Clear,0,OK
+2025-01-30,Gumboots,Clear,0,OK
+2025-01-30,Coffee,Clear,72,OK
+2025-01-30,Namkeen,Clear,56,OK
+2025-01-31,Heater,Rain,61,OK
+2025-01-31,Blanket,Rain,37,OK
+2025-01-31,Cotton Shirt,Rain,5,OK
+2025-01-31,Umbrella,Rain,4,OK
+2025-01-31,Gumboots,Rain,5,OK
+2025-01-31,Coffee,Rain,160,OK
+2025-01-31,Namkeen,Rain,69,OK
+2025-02-01,Heater,Clear,56,OK
+2025-02-01,Blanket,Clear,41,OK
+2025-02-01,Cotton Shirt,Clear,11,OK
+2025-02-01,Umbrella,Clear,0,OK
+2025-02-01,Gumboots,Clear,0,OK
+2025-02-01,Coffee,Clear,90,OK
+2025-02-01,Namkeen,Clear,64,OK
+2025-02-02,Heater,Rain,60,OK
+2025-02-02,Blanket,Rain,51,OK
+2025-02-02,Cotton Shirt,Rain,4,OK
+2025-02-02,Umbrella,Rain,4,OK
+2025-02-02,Gumboots,Rain,4,OK
+2025-02-02,Coffee,Rain,179,OK
+2025-02-02,Namkeen,Rain,72,OK
+2025-02-03,Heater,Clear,40,OK
+2025-02-03,Blanket,Clear,40,OK
+2025-02-03,Cotton Shirt,Clear,11,OK
+2025-02-03,Umbrella,Clear,0,OK
+2025-02-03,Gumboots,Clear,0,OK
+2025-02-03,Coffee,Clear,72,OK
+2025-02-03,Namkeen,Clear,48,OK
+2025-02-04,Heater,Clear,53,OK
+2025-02-04,Blanket,Clear,34,OK
+2025-02-04,Cotton Shirt,Clear,9,OK
+2025-02-04,Umbrella,Clear,0,OK
+2025-02-04,Gumboots,Clear,1,OK
+2025-02-04,Coffee,Clear,72,OK
+2025-02-04,Namkeen,Clear,55,OK
+2025-02-05,Heater,Clear,41,OK
+2025-02-05,Blanket,Clear,35,OK
+2025-02-05,Cotton Shirt,Clear,10,OK
+2025-02-05,Umbrella,Clear,0,OK
+2025-02-05,Gumboots,Clear,1,OK
+2025-02-05,Coffee,Clear,82,OK
+2025-02-05,Namkeen,Clear,55,OK
+2025-02-06,Heater,Clear,47,OK
+2025-02-06,Blanket,Clear,42,OK
+2025-02-06,Cotton Shirt,Clear,11,OK
+2025-02-06,Umbrella,Clear,0,OK
+2025-02-06,Gumboots,Clear,1,OK
+2025-02-06,Coffee,Clear,95,OK
+2025-02-06,Namkeen,Clear,71,OK
+2025-02-07,Heater,Clear,52,OK
+2025-02-07,Blanket,Clear,37,OK
+2025-02-07,Cotton Shirt,Clear,11,OK
+2025-02-07,Umbrella,Clear,0,OK
+2025-02-07,Gumboots,Clear,1,OK
+2025-02-07,Coffee,Clear,92,OK
+2025-02-07,Namkeen,Clear,60,OK
+2025-02-08,Heater,Clear,55,OK
+2025-02-08,Blanket,Clear,35,OK
+2025-02-08,Cotton Shirt,Clear,11,OK
+2025-02-08,Umbrella,Clear,0,OK
+2025-02-08,Gumboots,Clear,0,OK
+2025-02-08,Coffee,Clear,91,OK
+2025-02-08,Namkeen,Clear,64,OK
+2025-02-09,Heater,Clear,40,OK
+2025-02-09,Blanket,Clear,36,OK
+2025-02-09,Cotton Shirt,Clear,10,OK
+2025-02-09,Umbrella,Clear,0,OK
+2025-02-09,Gumboots,Clear,1,OK
+2025-02-09,Coffee,Clear,92,OK
+2025-02-09,Namkeen,Clear,63,OK
+2025-02-10,Heater,Clear,56,OK
+2025-02-10,Blanket,Clear,35,OK
+2025-02-10,Cotton Shirt,Clear,8,OK
+2025-02-10,Umbrella,Clear,0,OK
+2025-02-10,Gumboots,Clear,0,OK
+2025-02-10,Coffee,Clear,68,OK
+2025-02-10,Namkeen,Clear,54,OK
+2025-02-11,Heater,Clear,42,OK
+2025-02-11,Blanket,Clear,39,OK
+2025-02-11,Cotton Shirt,Clear,10,OK
+2025-02-11,Umbrella,Clear,0,OK
+2025-02-11,Gumboots,Clear,1,OK
+2025-02-11,Coffee,Clear,79,OK
+2025-02-11,Namkeen,Clear,56,OK
+2025-02-12,Heater,Clear,49,OK
+2025-02-12,Blanket,Clear,39,OK
+2025-02-12,Cotton Shirt,Clear,9,OK
+2025-02-12,Umbrella,Clear,0,OK
+2025-02-12,Gumboots,Clear,0,OK
+2025-02-12,Coffee,Clear,77,OK
+2025-02-12,Namkeen,Clear,57,OK
+2025-02-13,Heater,Clear,58,OK
+2025-02-13,Blanket,Clear,37,OK
+2025-02-13,Cotton Shirt,Clear,10,OK
+2025-02-13,Umbrella,Clear,0,OK
+2025-02-13,Gumboots,Clear,0,OK
+2025-02-13,Coffee,Clear,66,OK
+2025-02-13,Namkeen,Clear,54,OK
+2025-02-14,Heater,Clear,45,OK
+2025-02-14,Blanket,Clear,43,OK
+2025-02-14,Cotton Shirt,Clear,10,OK
+2025-02-14,Umbrella,Clear,0,OK
+2025-02-14,Gumboots,Clear,1,OK
+2025-02-14,Coffee,Clear,80,OK
+2025-02-14,Namkeen,Clear,49,OK
+2025-02-15,Heater,Clear,54,OK
+2025-02-15,Blanket,Clear,42,OK
+2025-02-15,Cotton Shirt,Clear,10,OK
+2025-02-15,Umbrella,Clear,0,OK
+2025-02-15,Gumboots,Clear,1,OK
+2025-02-15,Coffee,Clear,92,OK
+2025-02-15,Namkeen,Clear,52,OK
+2025-02-16,Heater,Clear,43,OK
+2025-02-16,Blanket,Clear,38,OK
+2025-02-16,Cotton Shirt,Clear,9,OK
+2025-02-16,Umbrella,Clear,0,OK
+2025-02-16,Gumboots,Clear,1,OK
+2025-02-16,Coffee,Clear,84,OK
+2025-02-16,Namkeen,Clear,71,OK
+2025-02-17,Heater,Clear,49,OK
+2025-02-17,Blanket,Clear,32,OK
+2025-02-17,Cotton Shirt,Clear,8,OK
+2025-02-17,Umbrella,Clear,0,OK
+2025-02-17,Gumboots,Clear,1,OK
+2025-02-17,Coffee,Clear,70,OK
+2025-02-17,Namkeen,Clear,52,OK
+2025-02-18,Heater,Clear,52,OK
+2025-02-18,Blanket,Clear,38,OK
+2025-02-18,Cotton Shirt,Clear,8,OK
+2025-02-18,Umbrella,Clear,0,OK
+2025-02-18,Gumboots,Clear,1,OK
+2025-02-18,Coffee,Clear,91,OK
+2025-02-18,Namkeen,Clear,54,OK
+2025-02-19,Heater,Clear,41,OK
+2025-02-19,Blanket,Clear,32,OK
+2025-02-19,Cotton Shirt,Clear,11,OK
+2025-02-19,Umbrella,Clear,0,OK
+2025-02-19,Gumboots,Clear,0,OK
+2025-02-19,Coffee,Clear,93,OK
+2025-02-19,Namkeen,Clear,64,OK
+2025-02-20,Heater,Clear,50,OK
+2025-02-20,Blanket,Clear,45,OK
+2025-02-20,Cotton Shirt,Clear,11,OK
+2025-02-20,Umbrella,Clear,0,OK
+2025-02-20,Gumboots,Clear,1,OK
+2025-02-20,Coffee,Clear,76,OK
+2025-02-20,Namkeen,Clear,64,OK
+2025-02-21,Heater,Clear,59,OK
+2025-02-21,Blanket,Clear,35,OK
+2025-02-21,Cotton Shirt,Clear,9,OK
+2025-02-21,Umbrella,Clear,0,OK
+2025-02-21,Gumboots,Clear,1,OK
+2025-02-21,Coffee,Clear,89,OK
+2025-02-21,Namkeen,Clear,70,OK
+2025-02-22,Heater,Clear,47,OK
+2025-02-22,Blanket,Clear,37,OK
+2025-02-22,Cotton Shirt,Clear,11,OK
+2025-02-22,Umbrella,Clear,0,OK
+2025-02-22,Gumboots,Clear,1,OK
+2025-02-22,Coffee,Clear,76,OK
+2025-02-22,Namkeen,Clear,51,OK
+2025-02-23,Heater,Clear,53,OK
+2025-02-23,Blanket,Clear,35,OK
+2025-02-23,Cotton Shirt,Clear,9,OK
+2025-02-23,Umbrella,Clear,0,OK
+2025-02-23,Gumboots,Clear,0,OK
+2025-02-23,Coffee,Clear,76,OK
+2025-02-23,Namkeen,Clear,59,OK
+2025-02-24,Heater,Clear,48,OK
+2025-02-24,Blanket,Clear,43,OK
+2025-02-24,Cotton Shirt,Clear,11,OK
+2025-02-24,Umbrella,Clear,0,OK
+2025-02-24,Gumboots,Clear,0,OK
+2025-02-24,Coffee,Clear,75,OK
+2025-02-24,Namkeen,Clear,59,OK
+2025-02-25,Heater,Clear,51,OK
+2025-02-25,Blanket,Clear,38,OK
+2025-02-25,Cotton Shirt,Clear,9,OK
+2025-02-25,Umbrella,Clear,0,OK
+2025-02-25,Gumboots,Clear,1,OK
+2025-02-25,Coffee,Clear,65,OK
+2025-02-25,Namkeen,Clear,51,OK
+2025-02-26,Heater,Clear,44,OK
+2025-02-26,Blanket,Clear,35,OK
+2025-02-26,Cotton Shirt,Clear,8,OK
+2025-02-26,Umbrella,Clear,0,OK
+2025-02-26,Gumboots,Clear,0,OK
+2025-02-26,Coffee,Clear,77,OK
+2025-02-26,Namkeen,Clear,67,OK
+2025-02-27,Heater,Clear,52,OK
+2025-02-27,Blanket,Clear,43,OK
+2025-02-27,Cotton Shirt,Clear,11,OK
+2025-02-27,Umbrella,Clear,0,OK
+2025-02-27,Gumboots,Clear,1,OK
+2025-02-27,Coffee,Clear,79,OK
+2025-02-27,Namkeen,Clear,62,OK
+2025-02-28,Heater,Clear,50,OK
+2025-02-28,Blanket,Clear,47,OK
+2025-02-28,Cotton Shirt,Clear,11,OK
+2025-02-28,Umbrella,Clear,0,OK
+2025-02-28,Gumboots,Clear,0,OK
+2025-02-28,Coffee,Clear,73,OK
+2025-02-28,Namkeen,Clear,50,OK
+2025-03-01,Heater,Clear,5,OK
+2025-03-01,Blanket,Clear,4,OK
+2025-03-01,Cotton Shirt,Clear,111,OK
+2025-03-01,Umbrella,Clear,0,OK
+2025-03-01,Gumboots,Clear,0,OK
+2025-03-01,Coffee,Clear,81,OK
+2025-03-01,Namkeen,Clear,65,OK
+2025-03-02,Heater,Clear,4,OK
+2025-03-02,Blanket,Clear,3,OK
+2025-03-02,Cotton Shirt,Clear,84,OK
+2025-03-02,Umbrella,Clear,0,OK
+2025-03-02,Gumboots,Clear,1,OK
+2025-03-02,Coffee,Clear,93,OK
+2025-03-02,Namkeen,Clear,52,OK
+2025-03-03,Heater,Clear,5,OK
+2025-03-03,Blanket,Clear,4,OK
+2025-03-03,Cotton Shirt,Clear,93,OK
+2025-03-03,Umbrella,Clear,0,OK
+2025-03-03,Gumboots,Clear,0,OK
+2025-03-03,Coffee,Clear,84,OK
+2025-03-03,Namkeen,Clear,52,OK
+2025-03-04,Heater,Clear,5,OK
+2025-03-04,Blanket,Clear,3,OK
+2025-03-04,Cotton Shirt,Clear,95,OK
+2025-03-04,Umbrella,Clear,0,OK
+2025-03-04,Gumboots,Clear,0,OK
+2025-03-04,Coffee,Clear,67,OK
+2025-03-04,Namkeen,Clear,71,OK
+2025-03-05,Heater,Rain,6,OK
+2025-03-05,Blanket,Rain,4,OK
+2025-03-05,Cotton Shirt,Rain,57,OK
+2025-03-05,Umbrella,Rain,3,OK
+2025-03-05,Gumboots,Rain,4,OK
+2025-03-05,Coffee,Rain,218,OK
+2025-03-05,Namkeen,Rain,77,OK
+2025-03-06,Heater,Clear,4,OK
+2025-03-06,Blanket,Clear,3,OK
+2025-03-06,Cotton Shirt,Clear,108,OK
+2025-03-06,Umbrella,Clear,0,OK
+2025-03-06,Gumboots,Clear,0,OK
+2025-03-06,Coffee,Clear,80,OK
+2025-03-06,Namkeen,Clear,69,OK
+2025-03-07,Heater,Clear,4,OK
+2025-03-07,Blanket,Clear,4,OK
+2025-03-07,Cotton Shirt,Clear,86,OK
+2025-03-07,Umbrella,Clear,0,OK
+2025-03-07,Gumboots,Clear,0,OK
+2025-03-07,Coffee,Clear,92,OK
+2025-03-07,Namkeen,Clear,50,OK
+2025-03-08,Heater,Clear,4,OK
+2025-03-08,Blanket,Clear,3,OK
+2025-03-08,Cotton Shirt,Clear,90,OK
+2025-03-08,Umbrella,Clear,0,OK
+2025-03-08,Gumboots,Clear,1,OK
+2025-03-08,Coffee,Clear,73,OK
+2025-03-08,Namkeen,Clear,56,OK
+2025-03-09,Heater,Clear,5,OK
+2025-03-09,Blanket,Clear,3,OK
+2025-03-09,Cotton Shirt,Clear,84,OK
+2025-03-09,Umbrella,Clear,0,OK
+2025-03-09,Gumboots,Clear,0,OK
+2025-03-09,Coffee,Clear,81,OK
+2025-03-09,Namkeen,Clear,59,OK
+2025-03-10,Heater,Clear,4,OK
+2025-03-10,Blanket,Clear,3,OK
+2025-03-10,Cotton Shirt,Clear,85,OK
+2025-03-10,Umbrella,Clear,0,OK
+2025-03-10,Gumboots,Clear,1,OK
+2025-03-10,Coffee,Clear,95,OK
+2025-03-10,Namkeen,Clear,56,OK
+2025-03-11,Heater,Rain,5,OK
+2025-03-11,Blanket,Rain,4,OK
+2025-03-11,Cotton Shirt,Rain,40,OK
+2025-03-11,Umbrella,Rain,3,OK
+2025-03-11,Gumboots,Rain,5,OK
+2025-03-11,Coffee,Rain,171,OK
+2025-03-11,Namkeen,Rain,71,OK
+2025-03-12,Heater,Clear,4,OK
+2025-03-12,Blanket,Clear,4,OK
+2025-03-12,Cotton Shirt,Clear,114,OK
+2025-03-12,Umbrella,Clear,0,OK
+2025-03-12,Gumboots,Clear,0,OK
+2025-03-12,Coffee,Clear,70,OK
+2025-03-12,Namkeen,Clear,62,OK
+2025-03-13,Heater,Clear,5,OK
+2025-03-13,Blanket,Clear,4,OK
+2025-03-13,Cotton Shirt,Clear,82,OK
+2025-03-13,Umbrella,Clear,0,OK
+2025-03-13,Gumboots,Clear,0,OK
+2025-03-13,Coffee,Clear,91,OK
+2025-03-13,Namkeen,Clear,48,OK
+2025-03-14,Heater,Clear,4,OK
+2025-03-14,Blanket,Clear,3,OK
+2025-03-14,Cotton Shirt,Clear,118,OK
+2025-03-14,Umbrella,Clear,0,OK
+2025-03-14,Gumboots,Clear,1,OK
+2025-03-14,Coffee,Clear,80,OK
+2025-03-14,Namkeen,Clear,64,OK
+2025-03-15,Heater,Rain,7,OK
+2025-03-15,Blanket,Rain,5,OK
+2025-03-15,Cotton Shirt,Rain,47,OK
+2025-03-15,Umbrella,Rain,3,OK
+2025-03-15,Gumboots,Rain,4,OK
+2025-03-15,Coffee,Rain,171,OK
+2025-03-15,Namkeen,Rain,75,OK
+2025-03-16,Heater,Clear,4,OK
+2025-03-16,Blanket,Clear,3,OK
+2025-03-16,Cotton Shirt,Clear,82,OK
+2025-03-16,Umbrella,Clear,0,OK
+2025-03-16,Gumboots,Clear,1,OK
+2025-03-16,Coffee,Clear,82,OK
+2025-03-16,Namkeen,Clear,49,OK
+2025-03-17,Heater,Clear,5,OK
+2025-03-17,Blanket,Clear,4,OK
+2025-03-17,Cotton Shirt,Clear,89,OK
+2025-03-17,Umbrella,Clear,0,OK
+2025-03-17,Gumboots,Clear,0,OK
+2025-03-17,Coffee,Clear,88,OK
+2025-03-17,Namkeen,Clear,63,OK
+2025-03-18,Heater,Clear,5,OK
+2025-03-18,Blanket,Clear,3,OK
+2025-03-18,Cotton Shirt,Clear,109,OK
+2025-03-18,Umbrella,Clear,0,OK
+2025-03-18,Gumboots,Clear,0,OK
+2025-03-18,Coffee,Clear,71,OK
+2025-03-18,Namkeen,Clear,69,OK
+2025-03-19,Heater,Clear,5,OK
+2025-03-19,Blanket,Clear,4,OK
+2025-03-19,Cotton Shirt,Clear,119,OK
+2025-03-19,Umbrella,Clear,0,OK
+2025-03-19,Gumboots,Clear,1,OK
+2025-03-19,Coffee,Clear,76,OK
+2025-03-19,Namkeen,Clear,58,OK
+2025-03-20,Heater,Clear,5,OK
+2025-03-20,Blanket,Clear,3,OK
+2025-03-20,Cotton Shirt,Clear,102,OK
+2025-03-20,Umbrella,Clear,0,OK
+2025-03-20,Gumboots,Clear,1,OK
+2025-03-20,Coffee,Clear,87,OK
+2025-03-20,Namkeen,Clear,63,OK
+2025-03-21,Heater,Clear,4,OK
+2025-03-21,Blanket,Clear,4,OK
+2025-03-21,Cotton Shirt,Clear,93,OK
+2025-03-21,Umbrella,Clear,0,OK
+2025-03-21,Gumboots,Clear,0,OK
+2025-03-21,Coffee,Clear,87,OK
+2025-03-21,Namkeen,Clear,62,OK
+2025-03-22,Heater,Rain,6,OK
+2025-03-22,Blanket,Rain,3,OK
+2025-03-22,Cotton Shirt,Rain,56,OK
+2025-03-22,Umbrella,Rain,3,OK
+2025-03-22,Gumboots,Rain,4,OK
+2025-03-22,Coffee,Rain,189,OK
+2025-03-22,Namkeen,Rain,80,OK
+2025-03-23,Heater,Rain,5,OK
+2025-03-23,Blanket,Rain,4,OK
+2025-03-23,Cotton Shirt,Rain,56,OK
+2025-03-23,Umbrella,Rain,4,OK
+2025-03-23,Gumboots,Rain,5,OK
+2025-03-23,Coffee,Rain,199,OK
+2025-03-23,Namkeen,Rain,70,OK
+2025-03-24,Heater,Rain,5,OK
+2025-03-24,Blanket,Rain,5,OK
+2025-03-24,Cotton Shirt,Rain,54,OK
+2025-03-24,Umbrella,Rain,3,OK
+2025-03-24,Gumboots,Rain,5,OK
+2025-03-24,Coffee,Rain,162,OK
+2025-03-24,Namkeen,Rain,68,OK
+2025-03-25,Heater,Clear,4,OK
+2025-03-25,Blanket,Clear,4,OK
+2025-03-25,Cotton Shirt,Clear,94,OK
+2025-03-25,Umbrella,Clear,0,OK
+2025-03-25,Gumboots,Clear,1,OK
+2025-03-25,Coffee,Clear,83,OK
+2025-03-25,Namkeen,Clear,54,OK
+2025-03-26,Heater,Clear,4,OK
+2025-03-26,Blanket,Clear,4,OK
+2025-03-26,Cotton Shirt,Clear,81,OK
+2025-03-26,Umbrella,Clear,0,OK
+2025-03-26,Gumboots,Clear,0,OK
+2025-03-26,Coffee,Clear,82,OK
+2025-03-26,Namkeen,Clear,58,OK
+2025-03-27,Heater,Clear,5,OK
+2025-03-27,Blanket,Clear,3,OK
+2025-03-27,Cotton Shirt,Clear,105,OK
+2025-03-27,Umbrella,Clear,0,OK
+2025-03-27,Gumboots,Clear,0,OK
+2025-03-27,Coffee,Clear,81,OK
+2025-03-27,Namkeen,Clear,58,OK
+2025-03-28,Heater,Clear,4,OK
+2025-03-28,Blanket,Clear,3,OK
+2025-03-28,Cotton Shirt,Clear,119,OK
+2025-03-28,Umbrella,Clear,0,OK
+2025-03-28,Gumboots,Clear,1,OK
+2025-03-28,Coffee,Clear,78,OK
+2025-03-28,Namkeen,Clear,54,OK
+2025-03-29,Heater,Clear,4,OK
+2025-03-29,Blanket,Clear,4,OK
+2025-03-29,Cotton Shirt,Clear,103,OK
+2025-03-29,Umbrella,Clear,0,OK
+2025-03-29,Gumboots,Clear,0,OK
+2025-03-29,Coffee,Clear,83,OK
+2025-03-29,Namkeen,Clear,63,OK
+2025-03-30,Heater,Clear,5,OK
+2025-03-30,Blanket,Clear,3,OK
+2025-03-30,Cotton Shirt,Clear,95,OK
+2025-03-30,Umbrella,Clear,0,OK
+2025-03-30,Gumboots,Clear,0,OK
+2025-03-30,Coffee,Clear,74,OK
+2025-03-30,Namkeen,Clear,48,OK
+2025-03-31,Heater,Clear,4,OK
+2025-03-31,Blanket,Clear,4,OK
+2025-03-31,Cotton Shirt,Clear,99,OK
+2025-03-31,Umbrella,Clear,0,OK
+2025-03-31,Gumboots,Clear,1,OK
+2025-03-31,Coffee,Clear,85,OK
+2025-03-31,Namkeen,Clear,71,OK
+2025-04-01,Heater,Clear,5,OK
+2025-04-01,Blanket,Clear,4,OK
+2025-04-01,Cotton Shirt,Clear,114,OK
+2025-04-01,Umbrella,Clear,0,OK
+2025-04-01,Gumboots,Clear,0,OK
+2025-04-01,Coffee,Clear,76,OK
+2025-04-01,Namkeen,Clear,53,OK
+2025-04-02,Heater,Clear,4,OK
+2025-04-02,Blanket,Clear,3,OK
+2025-04-02,Cotton Shirt,Clear,92,OK
+2025-04-02,Umbrella,Clear,0,OK
+2025-04-02,Gumboots,Clear,0,OK
+2025-04-02,Coffee,Clear,93,OK
+2025-04-02,Namkeen,Clear,59,OK
+2025-04-03,Heater,Rain,5,OK
+2025-04-03,Blanket,Rain,3,OK
+2025-04-03,Cotton Shirt,Rain,49,OK
+2025-04-03,Umbrella,Rain,3,OK
+2025-04-03,Gumboots,Rain,5,OK
+2025-04-03,Coffee,Rain,239,OK
+2025-04-03,Namkeen,Rain,67,OK
+2025-04-04,Heater,Clear,4,OK
+2025-04-04,Blanket,Clear,4,OK
+2025-04-04,Cotton Shirt,Clear,86,OK
+2025-04-04,Umbrella,Clear,0,OK
+2025-04-04,Gumboots,Clear,1,OK
+2025-04-04,Coffee,Clear,72,OK
+2025-04-04,Namkeen,Clear,57,OK
+2025-04-05,Heater,Clear,4,OK
+2025-04-05,Blanket,Clear,3,OK
+2025-04-05,Cotton Shirt,Clear,111,OK
+2025-04-05,Umbrella,Clear,0,OK
+2025-04-05,Gumboots,Clear,0,OK
+2025-04-05,Coffee,Clear,81,OK
+2025-04-05,Namkeen,Clear,55,OK
+2025-04-06,Heater,Clear,4,OK
+2025-04-06,Blanket,Clear,4,OK
+2025-04-06,Cotton Shirt,Clear,117,OK
+2025-04-06,Umbrella,Clear,0,OK
+2025-04-06,Gumboots,Clear,0,OK
+2025-04-06,Coffee,Clear,88,OK
+2025-04-06,Namkeen,Clear,70,OK
+2025-04-07,Heater,Clear,5,OK
+2025-04-07,Blanket,Clear,4,OK
+2025-04-07,Cotton Shirt,Clear,89,OK
+2025-04-07,Umbrella,Clear,0,OK
+2025-04-07,Gumboots,Clear,1,OK
+2025-04-07,Coffee,Clear,82,OK
+2025-04-07,Namkeen,Clear,64,OK
+2025-04-08,Heater,Rain,5,OK
+2025-04-08,Blanket,Rain,4,OK
+2025-04-08,Cotton Shirt,Rain,57,OK
+2025-04-08,Umbrella,Rain,4,OK
+2025-04-08,Gumboots,Rain,4,OK
+2025-04-08,Coffee,Rain,193,OK
+2025-04-08,Namkeen,Rain,76,OK
+2025-04-09,Heater,Clear,5,OK
+2025-04-09,Blanket,Clear,4,OK
+2025-04-09,Cotton Shirt,Clear,119,OK
+2025-04-09,Umbrella,Clear,0,OK
+2025-04-09,Gumboots,Clear,0,OK
+2025-04-09,Coffee,Clear,88,OK
+2025-04-09,Namkeen,Clear,68,OK
+2025-04-10,Heater,Clear,5,OK
+2025-04-10,Blanket,Clear,3,OK
+2025-04-10,Cotton Shirt,Clear,110,OK
+2025-04-10,Umbrella,Clear,0,OK
+2025-04-10,Gumboots,Clear,1,OK
+2025-04-10,Coffee,Clear,83,OK
+2025-04-10,Namkeen,Clear,62,OK
+2025-04-11,Heater,Clear,4,OK
+2025-04-11,Blanket,Clear,3,OK
+2025-04-11,Cotton Shirt,Clear,113,OK
+2025-04-11,Umbrella,Clear,0,OK
+2025-04-11,Gumboots,Clear,1,OK
+2025-04-11,Coffee,Clear,79,OK
+2025-04-11,Namkeen,Clear,71,OK
+2025-04-12,Heater,Rain,6,OK
+2025-04-12,Blanket,Rain,4,OK
+2025-04-12,Cotton Shirt,Rain,59,OK
+2025-04-12,Umbrella,Rain,4,OK
+2025-04-12,Gumboots,Rain,4,OK
+2025-04-12,Coffee,Rain,238,OK
+2025-04-12,Namkeen,Rain,83,OK
+2025-04-13,Heater,Clear,4,OK
+2025-04-13,Blanket,Clear,3,OK
+2025-04-13,Cotton Shirt,Clear,110,OK
+2025-04-13,Umbrella,Clear,0,OK
+2025-04-13,Gumboots,Clear,0,OK
+2025-04-13,Coffee,Clear,82,OK
+2025-04-13,Namkeen,Clear,59,OK
+2025-04-14,Heater,Clear,5,OK
+2025-04-14,Blanket,Clear,4,OK
+2025-04-14,Cotton Shirt,Clear,101,OK
+2025-04-14,Umbrella,Clear,0,OK
+2025-04-14,Gumboots,Clear,0,OK
+2025-04-14,Coffee,Clear,86,OK
+2025-04-14,Namkeen,Clear,48,OK
+2025-04-15,Heater,Clear,4,OK
+2025-04-15,Blanket,Clear,3,OK
+2025-04-15,Cotton Shirt,Clear,109,OK
+2025-04-15,Umbrella,Clear,0,OK
+2025-04-15,Gumboots,Clear,1,OK
+2025-04-15,Coffee,Clear,73,OK
+2025-04-15,Namkeen,Clear,62,OK
+2025-04-16,Heater,Clear,5,OK
+2025-04-16,Blanket,Clear,4,OK
+2025-04-16,Cotton Shirt,Clear,115,OK
+2025-04-16,Umbrella,Clear,0,OK
+2025-04-16,Gumboots,Clear,1,OK
+2025-04-16,Coffee,Clear,86,OK
+2025-04-16,Namkeen,Clear,64,OK
+2025-04-17,Heater,Clear,5,OK
+2025-04-17,Blanket,Clear,4,OK
+2025-04-17,Cotton Shirt,Clear,81,OK
+2025-04-17,Umbrella,Clear,0,OK
+2025-04-17,Gumboots,Clear,1,OK
+2025-04-17,Coffee,Clear,80,OK
+2025-04-17,Namkeen,Clear,62,OK
+2025-04-18,Heater,Clear,4,OK
+2025-04-18,Blanket,Clear,3,OK
+2025-04-18,Cotton Shirt,Clear,103,OK
+2025-04-18,Umbrella,Clear,0,OK
+2025-04-18,Gumboots,Clear,1,OK
+2025-04-18,Coffee,Clear,69,OK
+2025-04-18,Namkeen,Clear,49,OK
+2025-04-19,Heater,Clear,5,OK
+2025-04-19,Blanket,Clear,3,OK
+2025-04-19,Cotton Shirt,Clear,88,OK
+2025-04-19,Umbrella,Clear,0,OK
+2025-04-19,Gumboots,Clear,1,OK
+2025-04-19,Coffee,Clear,69,OK
+2025-04-19,Namkeen,Clear,54,OK
+2025-04-20,Heater,Clear,5,OK
+2025-04-20,Blanket,Clear,4,OK
+2025-04-20,Cotton Shirt,Clear,103,OK
+2025-04-20,Umbrella,Clear,0,OK
+2025-04-20,Gumboots,Clear,0,OK
+2025-04-20,Coffee,Clear,90,OK
+2025-04-20,Namkeen,Clear,63,OK
+2025-04-21,Heater,Clear,5,OK
+2025-04-21,Blanket,Clear,3,OK
+2025-04-21,Cotton Shirt,Clear,95,OK
+2025-04-21,Umbrella,Clear,0,OK
+2025-04-21,Gumboots,Clear,1,OK
+2025-04-21,Coffee,Clear,82,OK
+2025-04-21,Namkeen,Clear,62,OK
+2025-04-22,Heater,Rain,6,OK
+2025-04-22,Blanket,Rain,4,OK
+2025-04-22,Cotton Shirt,Rain,56,OK
+2025-04-22,Umbrella,Rain,3,OK
+2025-04-22,Gumboots,Rain,5,OK
+2025-04-22,Coffee,Rain,182,OK
+2025-04-22,Namkeen,Rain,76,OK
+2025-04-23,Heater,Clear,4,OK
+2025-04-23,Blanket,Clear,3,OK
+2025-04-23,Cotton Shirt,Clear,98,OK
+2025-04-23,Umbrella,Clear,0,OK
+2025-04-23,Gumboots,Clear,1,OK
+2025-04-23,Coffee,Clear,64,OK
+2025-04-23,Namkeen,Clear,59,OK
+2025-04-24,Heater,Clear,5,OK
+2025-04-24,Blanket,Clear,3,OK
+2025-04-24,Cotton Shirt,Clear,81,OK
+2025-04-24,Umbrella,Clear,0,OK
+2025-04-24,Gumboots,Clear,0,OK
+2025-04-24,Coffee,Clear,95,OK
+2025-04-24,Namkeen,Clear,53,OK
+2025-04-25,Heater,Clear,5,OK
+2025-04-25,Blanket,Clear,3,OK
+2025-04-25,Cotton Shirt,Clear,107,OK
+2025-04-25,Umbrella,Clear,0,OK
+2025-04-25,Gumboots,Clear,1,OK
+2025-04-25,Coffee,Clear,78,OK
+2025-04-25,Namkeen,Clear,63,OK
+2025-04-26,Heater,Clear,4,OK
+2025-04-26,Blanket,Clear,3,OK
+2025-04-26,Cotton Shirt,Clear,86,OK
+2025-04-26,Umbrella,Clear,0,OK
+2025-04-26,Gumboots,Clear,1,OK
+2025-04-26,Coffee,Clear,79,OK
+2025-04-26,Namkeen,Clear,56,OK
+2025-04-27,Heater,Clear,4,OK
+2025-04-27,Blanket,Clear,4,OK
+2025-04-27,Cotton Shirt,Clear,101,OK
+2025-04-27,Umbrella,Clear,0,OK
+2025-04-27,Gumboots,Clear,0,OK
+2025-04-27,Coffee,Clear,69,OK
+2025-04-27,Namkeen,Clear,53,OK
+2025-04-28,Heater,Clear,4,OK
+2025-04-28,Blanket,Clear,4,OK
+2025-04-28,Cotton Shirt,Clear,109,OK
+2025-04-28,Umbrella,Clear,0,OK
+2025-04-28,Gumboots,Clear,0,OK
+2025-04-28,Coffee,Clear,68,OK
+2025-04-28,Namkeen,Clear,58,OK
+2025-04-29,Heater,Clear,4,OK
+2025-04-29,Blanket,Clear,4,OK
+2025-04-29,Cotton Shirt,Clear,87,OK
+2025-04-29,Umbrella,Clear,0,OK
+2025-04-29,Gumboots,Clear,0,OK
+2025-04-29,Coffee,Clear,75,OK
+2025-04-29,Namkeen,Clear,57,OK
+2025-04-30,Heater,Rain,6,OK
+2025-04-30,Blanket,Rain,3,OK
+2025-04-30,Cotton Shirt,Rain,45,OK
+2025-04-30,Umbrella,Rain,3,OK
+2025-04-30,Gumboots,Rain,4,OK
+2025-04-30,Coffee,Rain,169,OK
+2025-04-30,Namkeen,Rain,73,OK
+2025-05-01,Heater,Clear,4,OK
+2025-05-01,Blanket,Clear,4,OK
+2025-05-01,Cotton Shirt,Clear,88,OK
+2025-05-01,Umbrella,Clear,0,OK
+2025-05-01,Gumboots,Clear,0,OK
+2025-05-01,Coffee,Clear,81,OK
+2025-05-01,Namkeen,Clear,63,OK
+2025-05-02,Heater,Clear,4,OK
+2025-05-02,Blanket,Clear,3,OK
+2025-05-02,Cotton Shirt,Clear,90,OK
+2025-05-02,Umbrella,Clear,0,OK
+2025-05-02,Gumboots,Clear,1,OK
+2025-05-02,Coffee,Clear,93,OK
+2025-05-02,Namkeen,Clear,61,OK
+2025-05-03,Heater,Clear,4,OK
+2025-05-03,Blanket,Clear,3,OK
+2025-05-03,Cotton Shirt,Clear,94,OK
+2025-05-03,Umbrella,Clear,0,OK
+2025-05-03,Gumboots,Clear,0,OK
+2025-05-03,Coffee,Clear,85,OK
+2025-05-03,Namkeen,Clear,51,OK
+2025-05-04,Heater,Clear,5,OK
+2025-05-04,Blanket,Clear,4,OK
+2025-05-04,Cotton Shirt,Clear,116,OK
+2025-05-04,Umbrella,Clear,0,OK
+2025-05-04,Gumboots,Clear,1,OK
+2025-05-04,Coffee,Clear,71,OK
+2025-05-04,Namkeen,Clear,69,OK
+2025-05-05,Heater,Clear,4,OK
+2025-05-05,Blanket,Clear,4,OK
+2025-05-05,Cotton Shirt,Clear,92,OK
+2025-05-05,Umbrella,Clear,0,OK
+2025-05-05,Gumboots,Clear,0,OK
+2025-05-05,Coffee,Clear,66,OK
+2025-05-05,Namkeen,Clear,58,OK
+2025-05-06,Heater,Clear,5,OK
+2025-05-06,Blanket,Clear,4,OK
+2025-05-06,Cotton Shirt,Clear,81,OK
+2025-05-06,Umbrella,Clear,0,OK
+2025-05-06,Gumboots,Clear,1,OK
+2025-05-06,Coffee,Clear,81,OK
+2025-05-06,Namkeen,Clear,61,OK
+2025-05-07,Heater,Clear,4,OK
+2025-05-07,Blanket,Clear,3,OK
+2025-05-07,Cotton Shirt,Clear,114,OK
+2025-05-07,Umbrella,Clear,0,OK
+2025-05-07,Gumboots,Clear,1,OK
+2025-05-07,Coffee,Clear,75,OK
+2025-05-07,Namkeen,Clear,70,OK
+2025-05-08,Heater,Clear,4,OK
+2025-05-08,Blanket,Clear,3,OK
+2025-05-08,Cotton Shirt,Clear,93,OK
+2025-05-08,Umbrella,Clear,0,OK
+2025-05-08,Gumboots,Clear,0,OK
+2025-05-08,Coffee,Clear,73,OK
+2025-05-08,Namkeen,Clear,50,OK
+2025-05-09,Heater,Clear,5,OK
+2025-05-09,Blanket,Clear,4,OK
+2025-05-09,Cotton Shirt,Clear,116,OK
+2025-05-09,Umbrella,Clear,0,OK
+2025-05-09,Gumboots,Clear,0,OK
+2025-05-09,Coffee,Clear,73,OK
+2025-05-09,Namkeen,Clear,70,OK
+2025-05-10,Heater,Clear,4,OK
+2025-05-10,Blanket,Clear,3,OK
+2025-05-10,Cotton Shirt,Clear,86,OK
+2025-05-10,Umbrella,Clear,0,OK
+2025-05-10,Gumboots,Clear,1,OK
+2025-05-10,Coffee,Clear,82,OK
+2025-05-10,Namkeen,Clear,62,OK
+2025-05-11,Heater,Clear,5,OK
+2025-05-11,Blanket,Clear,3,OK
+2025-05-11,Cotton Shirt,Clear,95,OK
+2025-05-11,Umbrella,Clear,0,OK
+2025-05-11,Gumboots,Clear,1,OK
+2025-05-11,Coffee,Clear,92,OK
+2025-05-11,Namkeen,Clear,71,OK
+2025-05-12,Heater,Clear,4,OK
+2025-05-12,Blanket,Clear,3,OK
+2025-05-12,Cotton Shirt,Clear,106,OK
+2025-05-12,Umbrella,Clear,0,OK
+2025-05-12,Gumboots,Clear,1,OK
+2025-05-12,Coffee,Clear,85,OK
+2025-05-12,Namkeen,Clear,48,OK
+2025-05-13,Heater,Clear,4,OK
+2025-05-13,Blanket,Clear,3,OK
+2025-05-13,Cotton Shirt,Clear,97,OK
+2025-05-13,Umbrella,Clear,0,OK
+2025-05-13,Gumboots,Clear,1,OK
+2025-05-13,Coffee,Clear,91,OK
+2025-05-13,Namkeen,Clear,71,OK
+2025-05-14,Heater,Clear,5,OK
+2025-05-14,Blanket,Clear,4,OK
+2025-05-14,Cotton Shirt,Clear,117,OK
+2025-05-14,Umbrella,Clear,0,OK
+2025-05-14,Gumboots,Clear,1,OK
+2025-05-14,Coffee,Clear,64,OK
+2025-05-14,Namkeen,Clear,63,OK
+2025-05-15,Heater,Clear,4,OK
+2025-05-15,Blanket,Clear,3,OK
+2025-05-15,Cotton Shirt,Clear,106,OK
+2025-05-15,Umbrella,Clear,0,OK
+2025-05-15,Gumboots,Clear,0,OK
+2025-05-15,Coffee,Clear,66,OK
+2025-05-15,Namkeen,Clear,60,OK
+2025-05-16,Heater,Clear,4,OK
+2025-05-16,Blanket,Clear,3,OK
+2025-05-16,Cotton Shirt,Clear,89,OK
+2025-05-16,Umbrella,Clear,0,OK
+2025-05-16,Gumboots,Clear,0,OK
+2025-05-16,Coffee,Clear,64,OK
+2025-05-16,Namkeen,Clear,60,OK
+2025-05-17,Heater,Clear,4,OK
+2025-05-17,Blanket,Clear,3,OK
+2025-05-17,Cotton Shirt,Clear,95,OK
+2025-05-17,Umbrella,Clear,0,OK
+2025-05-17,Gumboots,Clear,0,OK
+2025-05-17,Coffee,Clear,88,OK
+2025-05-17,Namkeen,Clear,59,OK
+2025-05-18,Heater,Clear,4,OK
+2025-05-18,Blanket,Clear,4,OK
+2025-05-18,Cotton Shirt,Clear,83,OK
+2025-05-18,Umbrella,Clear,0,OK
+2025-05-18,Gumboots,Clear,0,OK
+2025-05-18,Coffee,Clear,72,OK
+2025-05-18,Namkeen,Clear,69,OK
+2025-05-19,Heater,Clear,4,OK
+2025-05-19,Blanket,Clear,3,OK
+2025-05-19,Cotton Shirt,Clear,100,OK
+2025-05-19,Umbrella,Clear,0,OK
+2025-05-19,Gumboots,Clear,1,OK
+2025-05-19,Coffee,Clear,64,OK
+2025-05-19,Namkeen,Clear,55,OK
+2025-05-20,Heater,Clear,5,OK
+2025-05-20,Blanket,Clear,3,OK
+2025-05-20,Cotton Shirt,Clear,82,OK
+2025-05-20,Umbrella,Clear,0,OK
+2025-05-20,Gumboots,Clear,0,OK
+2025-05-20,Coffee,Clear,66,OK
+2025-05-20,Namkeen,Clear,50,OK
+2025-05-21,Heater,Clear,4,OK
+2025-05-21,Blanket,Clear,3,OK
+2025-05-21,Cotton Shirt,Clear,82,OK
+2025-05-21,Umbrella,Clear,0,OK
+2025-05-21,Gumboots,Clear,0,OK
+2025-05-21,Coffee,Clear,93,OK
+2025-05-21,Namkeen,Clear,51,OK
+2025-05-22,Heater,Clear,5,OK
+2025-05-22,Blanket,Clear,4,OK
+2025-05-22,Cotton Shirt,Clear,109,OK
+2025-05-22,Umbrella,Clear,0,OK
+2025-05-22,Gumboots,Clear,0,OK
+2025-05-22,Coffee,Clear,71,OK
+2025-05-22,Namkeen,Clear,69,OK
+2025-05-23,Heater,Clear,4,OK
+2025-05-23,Blanket,Clear,4,OK
+2025-05-23,Cotton Shirt,Clear,82,OK
+2025-05-23,Umbrella,Clear,0,OK
+2025-05-23,Gumboots,Clear,0,OK
+2025-05-23,Coffee,Clear,66,OK
+2025-05-23,Namkeen,Clear,55,OK
+2025-05-24,Heater,Rain,5,OK
+2025-05-24,Blanket,Rain,3,OK
+2025-05-24,Cotton Shirt,Rain,48,OK
+2025-05-24,Umbrella,Rain,4,OK
+2025-05-24,Gumboots,Rain,5,OK
+2025-05-24,Coffee,Rain,212,OK
+2025-05-24,Namkeen,Rain,71,OK
+2025-05-25,Heater,Clear,4,OK
+2025-05-25,Blanket,Clear,4,OK
+2025-05-25,Cotton Shirt,Clear,99,OK
+2025-05-25,Umbrella,Clear,0,OK
+2025-05-25,Gumboots,Clear,1,OK
+2025-05-25,Coffee,Clear,79,OK
+2025-05-25,Namkeen,Clear,64,OK
+2025-05-26,Heater,Clear,5,OK
+2025-05-26,Blanket,Clear,4,OK
+2025-05-26,Cotton Shirt,Clear,80,OK
+2025-05-26,Umbrella,Clear,0,OK
+2025-05-26,Gumboots,Clear,0,OK
+2025-05-26,Coffee,Clear,75,OK
+2025-05-26,Namkeen,Clear,56,OK
+2025-05-27,Heater,Clear,4,OK
+2025-05-27,Blanket,Clear,4,OK
+2025-05-27,Cotton Shirt,Clear,104,OK
+2025-05-27,Umbrella,Clear,0,OK
+2025-05-27,Gumboots,Clear,0,OK
+2025-05-27,Coffee,Clear,88,OK
+2025-05-27,Namkeen,Clear,71,OK
+2025-05-28,Heater,Clear,5,OK
+2025-05-28,Blanket,Clear,3,OK
+2025-05-28,Cotton Shirt,Clear,105,OK
+2025-05-28,Umbrella,Clear,0,OK
+2025-05-28,Gumboots,Clear,0,OK
+2025-05-28,Coffee,Clear,69,OK
+2025-05-28,Namkeen,Clear,54,OK
+2025-05-29,Heater,Clear,4,OK
+2025-05-29,Blanket,Clear,3,OK
+2025-05-29,Cotton Shirt,Clear,100,OK
+2025-05-29,Umbrella,Clear,0,OK
+2025-05-29,Gumboots,Clear,1,OK
+2025-05-29,Coffee,Clear,93,OK
+2025-05-29,Namkeen,Clear,51,OK
+2025-05-30,Heater,Clear,5,OK
+2025-05-30,Blanket,Clear,4,OK
+2025-05-30,Cotton Shirt,Clear,107,OK
+2025-05-30,Umbrella,Clear,0,OK
+2025-05-30,Gumboots,Clear,0,OK
+2025-05-30,Coffee,Clear,79,OK
+2025-05-30,Namkeen,Clear,52,OK
+2025-05-31,Heater,Rain,5,OK
+2025-05-31,Blanket,Rain,4,OK
+2025-05-31,Cotton Shirt,Rain,49,OK
+2025-05-31,Umbrella,Rain,4,OK
+2025-05-31,Gumboots,Rain,4,OK
+2025-05-31,Coffee,Rain,193,OK
+2025-05-31,Namkeen,Rain,69,OK
+2025-06-01,Heater,Clear,4,OK
+2025-06-01,Blanket,Clear,4,OK
+2025-06-01,Cotton Shirt,Clear,115,OK
+2025-06-01,Umbrella,Clear,5,OK
+2025-06-01,Gumboots,Clear,10,OK
+2025-06-01,Coffee,Clear,67,OK
+2025-06-01,Namkeen,Clear,71,OK
+2025-06-02,Heater,Rain,5,OK
+2025-06-02,Blanket,Rain,4,OK
+2025-06-02,Cotton Shirt,Rain,41,OK
+2025-06-02,Umbrella,Rain,47,OK
+2025-06-02,Gumboots,Rain,48,OK
+2025-06-02,Coffee,Rain,192,OK
+2025-06-02,Namkeen,Rain,63,OK
+2025-06-03,Heater,Rain,6,OK
+2025-06-03,Blanket,Rain,3,OK
+2025-06-03,Cotton Shirt,Rain,53,OK
+2025-06-03,Umbrella,Rain,43,OK
+2025-06-03,Gumboots,Rain,57,OK
+2025-06-03,Coffee,Rain,215,OK
+2025-06-03,Namkeen,Rain,81,OK
+2025-06-04,Heater,Rain,5,OK
+2025-06-04,Blanket,Rain,4,OK
+2025-06-04,Cotton Shirt,Rain,55,OK
+2025-06-04,Umbrella,Rain,37,OK
+2025-06-04,Gumboots,Rain,47,OK
+2025-06-04,Coffee,Rain,214,OK
+2025-06-04,Namkeen,Rain,78,OK
+2025-06-05,Heater,Rain,5,OK
+2025-06-05,Blanket,Rain,4,OK
+2025-06-05,Cotton Shirt,Rain,44,OK
+2025-06-05,Umbrella,Rain,42,OK
+2025-06-05,Gumboots,Rain,43,OK
+2025-06-05,Coffee,Rain,188,OK
+2025-06-05,Namkeen,Rain,77,OK
+2025-06-06,Heater,Rain,6,OK
+2025-06-06,Blanket,Rain,4,OK
+2025-06-06,Cotton Shirt,Rain,46,OK
+2025-06-06,Umbrella,Rain,42,OK
+2025-06-06,Gumboots,Rain,59,OK
+2025-06-06,Coffee,Rain,188,OK
+2025-06-06,Namkeen,Rain,64,OK
+2025-06-07,Heater,Rain,6,OK
+2025-06-07,Blanket,Rain,4,OK
+2025-06-07,Cotton Shirt,Rain,53,OK
+2025-06-07,Umbrella,Rain,33,OK
+2025-06-07,Gumboots,Rain,44,OK
+2025-06-07,Coffee,Rain,189,OK
+2025-06-07,Namkeen,Rain,61,OK
+2025-06-08,Heater,Rain,5,OK
+2025-06-08,Blanket,Rain,3,OK
+2025-06-08,Cotton Shirt,Rain,58,OK
+2025-06-08,Umbrella,Rain,36,OK
+2025-06-08,Gumboots,Rain,49,OK
+2025-06-08,Coffee,Rain,222,OK
+2025-06-08,Namkeen,Rain,67,OK
+2025-06-09,Heater,Clear,5,OK
+2025-06-09,Blanket,Clear,3,OK
+2025-06-09,Cotton Shirt,Clear,82,OK
+2025-06-09,Umbrella,Clear,4,OK
+2025-06-09,Gumboots,Clear,9,OK
+2025-06-09,Coffee,Clear,74,OK
+2025-06-09,Namkeen,Clear,51,OK
+2025-06-10,Heater,Rain,6,OK
+2025-06-10,Blanket,Rain,5,OK
+2025-06-10,Cotton Shirt,Rain,41,OK
+2025-06-10,Umbrella,Rain,39,OK
+2025-06-10,Gumboots,Rain,46,OK
+2025-06-10,Coffee,Rain,170,OK
+2025-06-10,Namkeen,Rain,60,OK
+2025-06-11,Heater,Rain,5,OK
+2025-06-11,Blanket,Rain,4,OK
+2025-06-11,Cotton Shirt,Rain,59,OK
+2025-06-11,Umbrella,Rain,32,OK
+2025-06-11,Gumboots,Rain,52,OK
+2025-06-11,Coffee,Rain,173,OK
+2025-06-11,Namkeen,Rain,59,OK
+2025-06-12,Heater,Rain,5,OK
+2025-06-12,Blanket,Rain,5,OK
+2025-06-12,Cotton Shirt,Rain,50,OK
+2025-06-12,Umbrella,Rain,45,OK
+2025-06-12,Gumboots,Rain,41,OK
+2025-06-12,Coffee,Rain,182,OK
+2025-06-12,Namkeen,Rain,62,OK
+2025-06-13,Heater,Rain,5,OK
+2025-06-13,Blanket,Rain,4,OK
+2025-06-13,Cotton Shirt,Rain,50,OK
+2025-06-13,Umbrella,Rain,43,OK
+2025-06-13,Gumboots,Rain,46,OK
+2025-06-13,Coffee,Rain,227,OK
+2025-06-13,Namkeen,Rain,83,OK
+2025-06-14,Heater,Rain,5,OK
+2025-06-14,Blanket,Rain,4,OK
+2025-06-14,Cotton Shirt,Rain,52,OK
+2025-06-14,Umbrella,Rain,36,OK
+2025-06-14,Gumboots,Rain,41,OK
+2025-06-14,Coffee,Rain,162,OK
+2025-06-14,Namkeen,Rain,59,OK
+2025-06-15,Heater,Rain,6,OK
+2025-06-15,Blanket,Rain,3,OK
+2025-06-15,Cotton Shirt,Rain,59,OK
+2025-06-15,Umbrella,Rain,38,OK
+2025-06-15,Gumboots,Rain,59,OK
+2025-06-15,Coffee,Rain,220,OK
+2025-06-15,Namkeen,Rain,61,OK
+2025-06-16,Heater,Clear,4,OK
+2025-06-16,Blanket,Clear,3,OK
+2025-06-16,Cotton Shirt,Clear,90,OK
+2025-06-16,Umbrella,Clear,5,OK
+2025-06-16,Gumboots,Clear,9,OK
+2025-06-16,Coffee,Clear,68,OK
+2025-06-16,Namkeen,Clear,62,OK
+2025-06-17,Heater,Rain,5,OK
+2025-06-17,Blanket,Rain,4,OK
+2025-06-17,Cotton Shirt,Rain,54,OK
+2025-06-17,Umbrella,Rain,39,OK
+2025-06-17,Gumboots,Rain,40,OK
+2025-06-17,Coffee,Rain,228,OK
+2025-06-17,Namkeen,Rain,84,OK
+2025-06-18,Heater,Rain,6,OK
+2025-06-18,Blanket,Rain,5,OK
+2025-06-18,Cotton Shirt,Rain,48,OK
+2025-06-18,Umbrella,Rain,37,OK
+2025-06-18,Gumboots,Rain,55,OK
+2025-06-18,Coffee,Rain,222,OK
+2025-06-18,Namkeen,Rain,60,OK
+2025-06-19,Heater,Rain,6,OK
+2025-06-19,Blanket,Rain,3,OK
+2025-06-19,Cotton Shirt,Rain,52,OK
+2025-06-19,Umbrella,Rain,41,OK
+2025-06-19,Gumboots,Rain,51,OK
+2025-06-19,Coffee,Rain,226,OK
+2025-06-19,Namkeen,Rain,77,OK
+2025-06-20,Heater,Clear,4,OK
+2025-06-20,Blanket,Clear,3,OK
+2025-06-20,Cotton Shirt,Clear,110,OK
+2025-06-20,Umbrella,Clear,5,OK
+2025-06-20,Gumboots,Clear,10,OK
+2025-06-20,Coffee,Clear,92,OK
+2025-06-20,Namkeen,Clear,56,OK
+2025-06-21,Heater,Rain,6,OK
+2025-06-21,Blanket,Rain,3,OK
+2025-06-21,Cotton Shirt,Rain,53,OK
+2025-06-21,Umbrella,Rain,43,OK
+2025-06-21,Gumboots,Rain,48,OK
+2025-06-21,Coffee,Rain,239,OK
+2025-06-21,Namkeen,Rain,70,OK
+2025-06-22,Heater,Rain,6,OK
+2025-06-22,Blanket,Rain,5,OK
+2025-06-22,Cotton Shirt,Rain,51,OK
+2025-06-22,Umbrella,Rain,39,OK
+2025-06-22,Gumboots,Rain,41,OK
+2025-06-22,Coffee,Rain,225,OK
+2025-06-22,Namkeen,Rain,58,OK
+2025-06-23,Heater,Clear,4,OK
+2025-06-23,Blanket,Clear,3,OK
+2025-06-23,Cotton Shirt,Clear,82,OK
+2025-06-23,Umbrella,Clear,5,OK
+2025-06-23,Gumboots,Clear,11,OK
+2025-06-23,Coffee,Clear,69,OK
+2025-06-23,Namkeen,Clear,61,OK
+2025-06-24,Heater,Rain,4,OK
+2025-06-24,Blanket,Rain,5,OK
+2025-06-24,Cotton Shirt,Rain,53,OK
+2025-06-24,Umbrella,Rain,44,OK
+2025-06-24,Gumboots,Rain,52,OK
+2025-06-24,Coffee,Rain,187,OK
+2025-06-24,Namkeen,Rain,61,OK
+2025-06-25,Heater,Rain,6,OK
+2025-06-25,Blanket,Rain,4,OK
+2025-06-25,Cotton Shirt,Rain,57,OK
+2025-06-25,Umbrella,Rain,40,OK
+2025-06-25,Gumboots,Rain,58,OK
+2025-06-25,Coffee,Rain,193,OK
+2025-06-25,Namkeen,Rain,59,OK
+2025-06-26,Heater,Rain,6,OK
+2025-06-26,Blanket,Rain,4,OK
+2025-06-26,Cotton Shirt,Rain,42,OK
+2025-06-26,Umbrella,Rain,43,OK
+2025-06-26,Gumboots,Rain,55,OK
+2025-06-26,Coffee,Rain,236,OK
+2025-06-26,Namkeen,Rain,59,OK
+2025-06-27,Heater,Clear,5,OK
+2025-06-27,Blanket,Clear,3,OK
+2025-06-27,Cotton Shirt,Clear,91,OK
+2025-06-27,Umbrella,Clear,4,OK
+2025-06-27,Gumboots,Clear,11,OK
+2025-06-27,Coffee,Clear,81,OK
+2025-06-27,Namkeen,Clear,56,OK
+2025-06-28,Heater,Rain,5,OK
+2025-06-28,Blanket,Rain,5,OK
+2025-06-28,Cotton Shirt,Rain,44,OK
+2025-06-28,Umbrella,Rain,40,OK
+2025-06-28,Gumboots,Rain,48,OK
+2025-06-28,Coffee,Rain,223,OK
+2025-06-28,Namkeen,Rain,82,OK
+2025-06-29,Heater,Clear,5,OK
+2025-06-29,Blanket,Clear,4,OK
+2025-06-29,Cotton Shirt,Clear,112,OK
+2025-06-29,Umbrella,Clear,4,OK
+2025-06-29,Gumboots,Clear,8,OK
+2025-06-29,Coffee,Clear,81,OK
+2025-06-29,Namkeen,Clear,69,OK
+2025-06-30,Heater,Clear,4,OK
+2025-06-30,Blanket,Clear,3,OK
+2025-06-30,Cotton Shirt,Clear,114,OK
+2025-06-30,Umbrella,Clear,4,OK
+2025-06-30,Gumboots,Clear,11,OK
+2025-06-30,Coffee,Clear,85,OK
+2025-06-30,Namkeen,Clear,54,OK
+2025-07-01,Heater,Rain,6,OK
+2025-07-01,Blanket,Rain,4,OK
+2025-07-01,Cotton Shirt,Rain,5,OK
+2025-07-01,Umbrella,Rain,37,OK
+2025-07-01,Gumboots,Rain,46,OK
+2025-07-01,Coffee,Rain,165,OK
+2025-07-01,Namkeen,Rain,63,OK
+2025-07-02,Heater,Rain,7,OK
+2025-07-02,Blanket,Rain,4,OK
+2025-07-02,Cotton Shirt,Rain,4,OK
+2025-07-02,Umbrella,Rain,43,OK
+2025-07-02,Gumboots,Rain,42,OK
+2025-07-02,Coffee,Rain,180,OK
+2025-07-02,Namkeen,Rain,61,OK
+2025-07-03,Heater,Rain,5,OK
+2025-07-03,Blanket,Rain,4,OK
+2025-07-03,Cotton Shirt,Rain,4,OK
+2025-07-03,Umbrella,Rain,46,OK
+2025-07-03,Gumboots,Rain,50,OK
+2025-07-03,Coffee,Rain,163,OK
+2025-07-03,Namkeen,Rain,59,OK
+2025-07-04,Heater,Clear,4,OK
+2025-07-04,Blanket,Clear,3,OK
+2025-07-04,Cotton Shirt,Clear,10,OK
+2025-07-04,Umbrella,Clear,4,OK
+2025-07-04,Gumboots,Clear,9,OK
+2025-07-04,Coffee,Clear,94,OK
+2025-07-04,Namkeen,Clear,59,OK
+2025-07-05,Heater,Rain,6,OK
+2025-07-05,Blanket,Rain,4,OK
+2025-07-05,Cotton Shirt,Rain,5,OK
+2025-07-05,Umbrella,Rain,47,OK
+2025-07-05,Gumboots,Rain,46,OK
+2025-07-05,Coffee,Rain,229,OK
+2025-07-05,Namkeen,Rain,72,OK
+2025-07-06,Heater,Rain,5,OK
+2025-07-06,Blanket,Rain,5,OK
+2025-07-06,Cotton Shirt,Rain,5,OK
+2025-07-06,Umbrella,Rain,33,OK
+2025-07-06,Gumboots,Rain,48,OK
+2025-07-06,Coffee,Rain,182,OK
+2025-07-06,Namkeen,Rain,80,OK
+2025-07-07,Heater,Rain,7,OK
+2025-07-07,Blanket,Rain,4,OK
+2025-07-07,Cotton Shirt,Rain,5,OK
+2025-07-07,Umbrella,Rain,41,OK
+2025-07-07,Gumboots,Rain,40,OK
+2025-07-07,Coffee,Rain,194,OK
+2025-07-07,Namkeen,Rain,76,OK
+2025-07-08,Heater,Rain,5,OK
+2025-07-08,Blanket,Rain,4,OK
+2025-07-08,Cotton Shirt,Rain,5,OK
+2025-07-08,Umbrella,Rain,41,OK
+2025-07-08,Gumboots,Rain,46,OK
+2025-07-08,Coffee,Rain,190,OK
+2025-07-08,Namkeen,Rain,75,OK
+2025-07-09,Heater,Clear,5,OK
+2025-07-09,Blanket,Clear,3,OK
+2025-07-09,Cotton Shirt,Clear,9,OK
+2025-07-09,Umbrella,Clear,5,OK
+2025-07-09,Gumboots,Clear,9,OK
+2025-07-09,Coffee,Clear,75,OK
+2025-07-09,Namkeen,Clear,68,OK
+2025-07-10,Heater,Clear,4,OK
+2025-07-10,Blanket,Clear,3,OK
+2025-07-10,Cotton Shirt,Clear,8,OK
+2025-07-10,Umbrella,Clear,4,OK
+2025-07-10,Gumboots,Clear,11,OK
+2025-07-10,Coffee,Clear,88,OK
+2025-07-10,Namkeen,Clear,55,OK
+2025-07-11,Heater,Rain,5,OK
+2025-07-11,Blanket,Rain,4,OK
+2025-07-11,Cotton Shirt,Rain,5,OK
+2025-07-11,Umbrella,Rain,43,OK
+2025-07-11,Gumboots,Rain,56,OK
+2025-07-11,Coffee,Rain,231,OK
+2025-07-11,Namkeen,Rain,66,OK
+2025-07-12,Heater,Clear,5,OK
+2025-07-12,Blanket,Clear,4,OK
+2025-07-12,Cotton Shirt,Clear,9,OK
+2025-07-12,Umbrella,Clear,5,OK
+2025-07-12,Gumboots,Clear,9,OK
+2025-07-12,Coffee,Clear,92,OK
+2025-07-12,Namkeen,Clear,58,OK
+2025-07-13,Heater,Rain,5,OK
+2025-07-13,Blanket,Rain,4,OK
+2025-07-13,Cotton Shirt,Rain,5,OK
+2025-07-13,Umbrella,Rain,46,OK
+2025-07-13,Gumboots,Rain,44,OK
+2025-07-13,Coffee,Rain,220,OK
+2025-07-13,Namkeen,Rain,78,OK
+2025-07-14,Heater,Clear,4,OK
+2025-07-14,Blanket,Clear,3,OK
+2025-07-14,Cotton Shirt,Clear,11,OK
+2025-07-14,Umbrella,Clear,5,OK
+2025-07-14,Gumboots,Clear,9,OK
+2025-07-14,Coffee,Clear,69,OK
+2025-07-14,Namkeen,Clear,48,OK
+2025-07-15,Heater,Rain,5,OK
+2025-07-15,Blanket,Rain,4,OK
+2025-07-15,Cotton Shirt,Rain,4,OK
+2025-07-15,Umbrella,Rain,40,OK
+2025-07-15,Gumboots,Rain,56,OK
+2025-07-15,Coffee,Rain,224,OK
+2025-07-15,Namkeen,Rain,76,OK
+2025-07-16,Heater,Rain,5,OK
+2025-07-16,Blanket,Rain,3,OK
+2025-07-16,Cotton Shirt,Rain,5,OK
+2025-07-16,Umbrella,Rain,37,OK
+2025-07-16,Gumboots,Rain,59,OK
+2025-07-16,Coffee,Rain,163,OK
+2025-07-16,Namkeen,Rain,81,OK
+2025-07-17,Heater,Clear,4,OK
+2025-07-17,Blanket,Clear,4,OK
+2025-07-17,Cotton Shirt,Clear,11,OK
+2025-07-17,Umbrella,Clear,4,OK
+2025-07-17,Gumboots,Clear,10,OK
+2025-07-17,Coffee,Clear,95,OK
+2025-07-17,Namkeen,Clear,60,OK
+2025-07-18,Heater,Rain,5,OK
+2025-07-18,Blanket,Rain,4,OK
+2025-07-18,Cotton Shirt,Rain,4,OK
+2025-07-18,Umbrella,Rain,32,OK
+2025-07-18,Gumboots,Rain,50,OK
+2025-07-18,Coffee,Rain,204,OK
+2025-07-18,Namkeen,Rain,58,OK
+2025-07-19,Heater,Rain,5,OK
+2025-07-19,Blanket,Rain,3,OK
+2025-07-19,Cotton Shirt,Rain,4,OK
+2025-07-19,Umbrella,Rain,44,OK
+2025-07-19,Gumboots,Rain,43,OK
+2025-07-19,Coffee,Rain,228,OK
+2025-07-19,Namkeen,Rain,84,OK
+2025-07-20,Heater,Rain,6,OK
+2025-07-20,Blanket,Rain,3,OK
+2025-07-20,Cotton Shirt,Rain,5,OK
+2025-07-20,Umbrella,Rain,47,OK
+2025-07-20,Gumboots,Rain,55,OK
+2025-07-20,Coffee,Rain,193,OK
+2025-07-20,Namkeen,Rain,58,OK
+2025-07-21,Heater,Clear,5,OK
+2025-07-21,Blanket,Clear,3,OK
+2025-07-21,Cotton Shirt,Clear,11,OK
+2025-07-21,Umbrella,Clear,4,OK
+2025-07-21,Gumboots,Clear,10,OK
+2025-07-21,Coffee,Clear,79,OK
+2025-07-21,Namkeen,Clear,62,OK
+2025-07-22,Heater,Rain,5,OK
+2025-07-22,Blanket,Rain,5,OK
+2025-07-22,Cotton Shirt,Rain,5,OK
+2025-07-22,Umbrella,Rain,41,OK
+2025-07-22,Gumboots,Rain,47,OK
+2025-07-22,Coffee,Rain,238,OK
+2025-07-22,Namkeen,Rain,58,OK
+2025-07-23,Heater,Rain,6,OK
+2025-07-23,Blanket,Rain,4,OK
+2025-07-23,Cotton Shirt,Rain,5,OK
+2025-07-23,Umbrella,Rain,32,OK
+2025-07-23,Gumboots,Rain,52,OK
+2025-07-23,Coffee,Rain,234,OK
+2025-07-23,Namkeen,Rain,81,OK
+2025-07-24,Heater,Rain,6,OK
+2025-07-24,Blanket,Rain,5,OK
+2025-07-24,Cotton Shirt,Rain,4,OK
+2025-07-24,Umbrella,Rain,46,OK
+2025-07-24,Gumboots,Rain,46,OK
+2025-07-24,Coffee,Rain,188,OK
+2025-07-24,Namkeen,Rain,58,OK
+2025-07-25,Heater,Rain,6,OK
+2025-07-25,Blanket,Rain,4,OK
+2025-07-25,Cotton Shirt,Rain,4,OK
+2025-07-25,Umbrella,Rain,36,OK
+2025-07-25,Gumboots,Rain,50,OK
+2025-07-25,Coffee,Rain,164,OK
+2025-07-25,Namkeen,Rain,79,OK
+2025-07-26,Heater,Clear,5,OK
+2025-07-26,Blanket,Clear,3,OK
+2025-07-26,Cotton Shirt,Clear,8,OK
+2025-07-26,Umbrella,Clear,4,OK
+2025-07-26,Gumboots,Clear,10,OK
+2025-07-26,Coffee,Clear,88,OK
+2025-07-26,Namkeen,Clear,55,OK
+2025-07-27,Heater,Rain,6,OK
+2025-07-27,Blanket,Rain,5,OK
+2025-07-27,Cotton Shirt,Rain,4,OK
+2025-07-27,Umbrella,Rain,32,OK
+2025-07-27,Gumboots,Rain,47,OK
+2025-07-27,Coffee,Rain,201,OK
+2025-07-27,Namkeen,Rain,71,OK
+2025-07-28,Heater,Rain,4,OK
+2025-07-28,Blanket,Rain,3,OK
+2025-07-28,Cotton Shirt,Rain,5,OK
+2025-07-28,Umbrella,Rain,33,OK
+2025-07-28,Gumboots,Rain,44,OK
+2025-07-28,Coffee,Rain,216,OK
+2025-07-28,Namkeen,Rain,73,OK
+2025-07-29,Heater,Clear,4,OK
+2025-07-29,Blanket,Clear,4,OK
+2025-07-29,Cotton Shirt,Clear,10,OK
+2025-07-29,Umbrella,Clear,4,OK
+2025-07-29,Gumboots,Clear,9,OK
+2025-07-29,Coffee,Clear,68,OK
+2025-07-29,Namkeen,Clear,62,OK
+2025-07-30,Heater,Rain,7,OK
+2025-07-30,Blanket,Rain,4,OK
+2025-07-30,Cotton Shirt,Rain,4,OK
+2025-07-30,Umbrella,Rain,39,OK
+2025-07-30,Gumboots,Rain,43,OK
+2025-07-30,Coffee,Rain,196,OK
+2025-07-30,Namkeen,Rain,73,OK
+2025-07-31,Heater,Rain,5,OK
+2025-07-31,Blanket,Rain,3,OK
+2025-07-31,Cotton Shirt,Rain,5,OK
+2025-07-31,Umbrella,Rain,43,OK
+2025-07-31,Gumboots,Rain,45,OK
+2025-07-31,Coffee,Rain,229,OK
+2025-07-31,Namkeen,Rain,79,OK
+2025-08-01,Heater,Clear,5,OK
+2025-08-01,Blanket,Clear,4,OK
+2025-08-01,Cotton Shirt,Clear,11,OK
+2025-08-01,Umbrella,Clear,5,OK
+2025-08-01,Gumboots,Clear,8,OK
+2025-08-01,Coffee,Clear,74,OK
+2025-08-01,Namkeen,Clear,50,OK
+2025-08-02,Heater,Rain,6,OK
+2025-08-02,Blanket,Rain,3,OK
+2025-08-02,Cotton Shirt,Rain,5,OK
+2025-08-02,Umbrella,Rain,33,OK
+2025-08-02,Gumboots,Rain,53,OK
+2025-08-02,Coffee,Rain,167,OK
+2025-08-02,Namkeen,Rain,69,OK
+2025-08-03,Heater,Rain,6,OK
+2025-08-03,Blanket,Rain,3,OK
+2025-08-03,Cotton Shirt,Rain,4,OK
+2025-08-03,Umbrella,Rain,46,OK
+2025-08-03,Gumboots,Rain,48,OK
+2025-08-03,Coffee,Rain,203,OK
+2025-08-03,Namkeen,Rain,61,OK
+2025-08-04,Heater,Clear,5,OK
+2025-08-04,Blanket,Clear,3,OK
+2025-08-04,Cotton Shirt,Clear,10,OK
+2025-08-04,Umbrella,Clear,4,OK
+2025-08-04,Gumboots,Clear,10,OK
+2025-08-04,Coffee,Clear,66,OK
+2025-08-04,Namkeen,Clear,55,OK
+2025-08-05,Heater,Rain,5,OK
+2025-08-05,Blanket,Rain,3,OK
+2025-08-05,Cotton Shirt,Rain,4,OK
+2025-08-05,Umbrella,Rain,42,OK
+2025-08-05,Gumboots,Rain,44,OK
+2025-08-05,Coffee,Rain,168,OK
+2025-08-05,Namkeen,Rain,79,OK
+2025-08-06,Heater,Rain,5,OK
+2025-08-06,Blanket,Rain,3,OK
+2025-08-06,Cotton Shirt,Rain,4,OK
+2025-08-06,Umbrella,Rain,42,OK
+2025-08-06,Gumboots,Rain,43,OK
+2025-08-06,Coffee,Rain,191,OK
+2025-08-06,Namkeen,Rain,65,OK
+2025-08-07,Heater,Rain,7,OK
+2025-08-07,Blanket,Rain,4,OK
+2025-08-07,Cotton Shirt,Rain,4,OK
+2025-08-07,Umbrella,Rain,36,OK
+2025-08-07,Gumboots,Rain,52,OK
+2025-08-07,Coffee,Rain,202,OK
+2025-08-07,Namkeen,Rain,76,OK
+2025-08-08,Heater,Rain,5,OK
+2025-08-08,Blanket,Rain,3,OK
+2025-08-08,Cotton Shirt,Rain,5,OK
+2025-08-08,Umbrella,Rain,41,OK
+2025-08-08,Gumboots,Rain,44,OK
+2025-08-08,Coffee,Rain,220,OK
+2025-08-08,Namkeen,Rain,60,OK
+2025-08-09,Heater,Rain,4,OK
+2025-08-09,Blanket,Rain,4,OK
+2025-08-09,Cotton Shirt,Rain,5,OK
+2025-08-09,Umbrella,Rain,41,OK
+2025-08-09,Gumboots,Rain,48,OK
+2025-08-09,Coffee,Rain,224,OK
+2025-08-09,Namkeen,Rain,81,OK
+2025-08-10,Heater,Rain,6,OK
+2025-08-10,Blanket,Rain,4,OK
+2025-08-10,Cotton Shirt,Rain,4,OK
+2025-08-10,Umbrella,Rain,41,OK
+2025-08-10,Gumboots,Rain,47,OK
+2025-08-10,Coffee,Rain,206,OK
+2025-08-10,Namkeen,Rain,81,OK
+2025-08-11,Heater,Clear,4,OK
+2025-08-11,Blanket,Clear,3,OK
+2025-08-11,Cotton Shirt,Clear,11,OK
+2025-08-11,Umbrella,Clear,4,OK
+2025-08-11,Gumboots,Clear,8,OK
+2025-08-11,Coffee,Clear,91,OK
+2025-08-11,Namkeen,Clear,50,OK
+2025-08-12,Heater,Rain,4,OK
+2025-08-12,Blanket,Rain,5,OK
+2025-08-12,Cotton Shirt,Rain,4,OK
+2025-08-12,Umbrella,Rain,44,OK
+2025-08-12,Gumboots,Rain,52,OK
+2025-08-12,Coffee,Rain,171,OK
+2025-08-12,Namkeen,Rain,79,OK
+2025-08-13,Heater,Rain,5,OK
+2025-08-13,Blanket,Rain,4,OK
+2025-08-13,Cotton Shirt,Rain,5,OK
+2025-08-13,Umbrella,Rain,44,OK
+2025-08-13,Gumboots,Rain,51,OK
+2025-08-13,Coffee,Rain,200,OK
+2025-08-13,Namkeen,Rain,82,OK
+2025-08-14,Heater,Clear,5,OK
+2025-08-14,Blanket,Clear,3,OK
+2025-08-14,Cotton Shirt,Clear,9,OK
+2025-08-14,Umbrella,Clear,4,OK
+2025-08-14,Gumboots,Clear,8,OK
+2025-08-14,Coffee,Clear,92,OK
+2025-08-14,Namkeen,Clear,48,OK
+2025-08-15,Heater,Rain,4,OK
+2025-08-15,Blanket,Rain,4,OK
+2025-08-15,Cotton Shirt,Rain,4,OK
+2025-08-15,Umbrella,Rain,42,OK
+2025-08-15,Gumboots,Rain,50,OK
+2025-08-15,Coffee,Rain,205,OK
+2025-08-15,Namkeen,Rain,77,OK
+2025-08-16,Heater,Rain,7,OK
+2025-08-16,Blanket,Rain,3,OK
+2025-08-16,Cotton Shirt,Rain,5,OK
+2025-08-16,Umbrella,Rain,37,OK
+2025-08-16,Gumboots,Rain,44,OK
+2025-08-16,Coffee,Rain,186,OK
+2025-08-16,Namkeen,Rain,75,OK
+2025-08-17,Heater,Rain,5,OK
+2025-08-17,Blanket,Rain,4,OK
+2025-08-17,Cotton Shirt,Rain,5,OK
+2025-08-17,Umbrella,Rain,40,OK
+2025-08-17,Gumboots,Rain,51,OK
+2025-08-17,Coffee,Rain,189,OK
+2025-08-17,Namkeen,Rain,84,OK
+2025-08-18,Heater,Rain,6,OK
+2025-08-18,Blanket,Rain,3,OK
+2025-08-18,Cotton Shirt,Rain,4,OK
+2025-08-18,Umbrella,Rain,47,OK
+2025-08-18,Gumboots,Rain,45,OK
+2025-08-18,Coffee,Rain,218,OK
+2025-08-18,Namkeen,Rain,74,OK
+2025-08-19,Heater,Clear,4,OK
+2025-08-19,Blanket,Clear,4,OK
+2025-08-19,Cotton Shirt,Clear,11,OK
+2025-08-19,Umbrella,Clear,4,OK
+2025-08-19,Gumboots,Clear,10,OK
+2025-08-19,Coffee,Clear,66,OK
+2025-08-19,Namkeen,Clear,66,OK
+2025-08-20,Heater,Rain,7,OK
+2025-08-20,Blanket,Rain,4,OK
+2025-08-20,Cotton Shirt,Rain,4,OK
+2025-08-20,Umbrella,Rain,32,OK
+2025-08-20,Gumboots,Rain,58,OK
+2025-08-20,Coffee,Rain,214,OK
+2025-08-20,Namkeen,Rain,75,OK
+2025-08-21,Heater,Rain,6,OK
+2025-08-21,Blanket,Rain,5,OK
+2025-08-21,Cotton Shirt,Rain,5,OK
+2025-08-21,Umbrella,Rain,47,OK
+2025-08-21,Gumboots,Rain,46,OK
+2025-08-21,Coffee,Rain,198,OK
+2025-08-21,Namkeen,Rain,72,OK
+2025-08-22,Heater,Rain,5,OK
+2025-08-22,Blanket,Rain,4,OK
+2025-08-22,Cotton Shirt,Rain,5,OK
+2025-08-22,Umbrella,Rain,36,OK
+2025-08-22,Gumboots,Rain,50,OK
+2025-08-22,Coffee,Rain,238,OK
+2025-08-22,Namkeen,Rain,82,OK
+2025-08-23,Heater,Clear,5,OK
+2025-08-23,Blanket,Clear,4,OK
+2025-08-23,Cotton Shirt,Clear,10,OK
+2025-08-23,Umbrella,Clear,4,OK
+2025-08-23,Gumboots,Clear,8,OK
+2025-08-23,Coffee,Clear,77,OK
+2025-08-23,Namkeen,Clear,62,OK
+2025-08-24,Heater,Clear,5,OK
+2025-08-24,Blanket,Clear,3,OK
+2025-08-24,Cotton Shirt,Clear,11,OK
+2025-08-24,Umbrella,Clear,4,OK
+2025-08-24,Gumboots,Clear,11,OK
+2025-08-24,Coffee,Clear,86,OK
+2025-08-24,Namkeen,Clear,60,OK
+2025-08-25,Heater,Clear,4,OK
+2025-08-25,Blanket,Clear,4,OK
+2025-08-25,Cotton Shirt,Clear,9,OK
+2025-08-25,Umbrella,Clear,5,OK
+2025-08-25,Gumboots,Clear,11,OK
+2025-08-25,Coffee,Clear,75,OK
+2025-08-25,Namkeen,Clear,48,OK
+2025-08-26,Heater,Rain,6,OK
+2025-08-26,Blanket,Rain,4,OK
+2025-08-26,Cotton Shirt,Rain,4,OK
+2025-08-26,Umbrella,Rain,34,OK
+2025-08-26,Gumboots,Rain,41,OK
+2025-08-26,Coffee,Rain,195,OK
+2025-08-26,Namkeen,Rain,62,OK
+2025-08-27,Heater,Clear,4,OK
+2025-08-27,Blanket,Clear,3,OK
+2025-08-27,Cotton Shirt,Clear,8,OK
+2025-08-27,Umbrella,Clear,5,OK
+2025-08-27,Gumboots,Clear,11,OK
+2025-08-27,Coffee,Clear,72,OK
+2025-08-27,Namkeen,Clear,57,OK
+2025-08-28,Heater,Rain,6,OK
+2025-08-28,Blanket,Rain,4,OK
+2025-08-28,Cotton Shirt,Rain,4,OK
+2025-08-28,Umbrella,Rain,40,OK
+2025-08-28,Gumboots,Rain,50,OK
+2025-08-28,Coffee,Rain,170,OK
+2025-08-28,Namkeen,Rain,80,OK
+2025-08-29,Heater,Clear,4,OK
+2025-08-29,Blanket,Clear,3,OK
+2025-08-29,Cotton Shirt,Clear,8,OK
+2025-08-29,Umbrella,Clear,4,OK
+2025-08-29,Gumboots,Clear,9,OK
+2025-08-29,Coffee,Clear,87,OK
+2025-08-29,Namkeen,Clear,52,OK
+2025-08-30,Heater,Rain,6,OK
+2025-08-30,Blanket,Rain,4,OK
+2025-08-30,Cotton Shirt,Rain,4,OK
+2025-08-30,Umbrella,Rain,33,OK
+2025-08-30,Gumboots,Rain,53,OK
+2025-08-30,Coffee,Rain,233,OK
+2025-08-30,Namkeen,Rain,78,OK
+2025-08-31,Heater,Rain,5,OK
+2025-08-31,Blanket,Rain,4,OK
+2025-08-31,Cotton Shirt,Rain,5,OK
+2025-08-31,Umbrella,Rain,42,OK
+2025-08-31,Gumboots,Rain,49,OK
+2025-08-31,Coffee,Rain,191,OK
+2025-08-31,Namkeen,Rain,77,OK
+2025-09-01,Heater,Clear,4,OK
+2025-09-01,Blanket,Clear,4,OK
+2025-09-01,Cotton Shirt,Clear,9,OK
+2025-09-01,Umbrella,Clear,4,OK
+2025-09-01,Gumboots,Clear,10,OK
+2025-09-01,Coffee,Clear,85,OK
+2025-09-01,Namkeen,Clear,70,OK
+2025-09-02,Heater,Rain,5,OK
+2025-09-02,Blanket,Rain,3,OK
+2025-09-02,Cotton Shirt,Rain,4,OK
+2025-09-02,Umbrella,Rain,33,OK
+2025-09-02,Gumboots,Rain,46,OK
+2025-09-02,Coffee,Rain,228,OK
+2025-09-02,Namkeen,Rain,84,OK
+2025-09-03,Heater,Rain,6,OK
+2025-09-03,Blanket,Rain,3,OK
+2025-09-03,Cotton Shirt,Rain,4,OK
+2025-09-03,Umbrella,Rain,40,OK
+2025-09-03,Gumboots,Rain,56,OK
+2025-09-03,Coffee,Rain,179,OK
+2025-09-03,Namkeen,Rain,69,OK
+2025-09-04,Heater,Rain,5,OK
+2025-09-04,Blanket,Rain,4,OK
+2025-09-04,Cotton Shirt,Rain,5,OK
+2025-09-04,Umbrella,Rain,40,OK
+2025-09-04,Gumboots,Rain,55,OK
+2025-09-04,Coffee,Rain,233,OK
+2025-09-04,Namkeen,Rain,63,OK
+2025-09-05,Heater,Rain,5,OK
+2025-09-05,Blanket,Rain,5,OK
+2025-09-05,Cotton Shirt,Rain,4,OK
+2025-09-05,Umbrella,Rain,42,OK
+2025-09-05,Gumboots,Rain,54,OK
+2025-09-05,Coffee,Rain,165,OK
+2025-09-05,Namkeen,Rain,84,OK
+2025-09-06,Heater,Rain,7,OK
+2025-09-06,Blanket,Rain,4,OK
+2025-09-06,Cotton Shirt,Rain,4,OK
+2025-09-06,Umbrella,Rain,35,OK
+2025-09-06,Gumboots,Rain,50,OK
+2025-09-06,Coffee,Rain,174,OK
+2025-09-06,Namkeen,Rain,66,OK
+2025-09-07,Heater,Rain,5,OK
+2025-09-07,Blanket,Rain,4,OK
+2025-09-07,Cotton Shirt,Rain,4,OK
+2025-09-07,Umbrella,Rain,32,OK
+2025-09-07,Gumboots,Rain,55,OK
+2025-09-07,Coffee,Rain,175,OK
+2025-09-07,Namkeen,Rain,76,OK
+2025-09-08,Heater,Rain,4,OK
+2025-09-08,Blanket,Rain,5,OK
+2025-09-08,Cotton Shirt,Rain,4,OK
+2025-09-08,Umbrella,Rain,37,OK
+2025-09-08,Gumboots,Rain,46,OK
+2025-09-08,Coffee,Rain,188,OK
+2025-09-08,Namkeen,Rain,63,OK
+2025-09-09,Heater,Rain,7,OK
+2025-09-09,Blanket,Rain,4,OK
+2025-09-09,Cotton Shirt,Rain,5,OK
+2025-09-09,Umbrella,Rain,42,OK
+2025-09-09,Gumboots,Rain,54,OK
+2025-09-09,Coffee,Rain,185,OK
+2025-09-09,Namkeen,Rain,67,OK
+2025-09-10,Heater,Rain,5,OK
+2025-09-10,Blanket,Rain,4,OK
+2025-09-10,Cotton Shirt,Rain,4,OK
+2025-09-10,Umbrella,Rain,32,OK
+2025-09-10,Gumboots,Rain,59,OK
+2025-09-10,Coffee,Rain,164,OK
+2025-09-10,Namkeen,Rain,72,OK
+2025-09-11,Heater,Rain,6,OK
+2025-09-11,Blanket,Rain,4,OK
+2025-09-11,Cotton Shirt,Rain,4,OK
+2025-09-11,Umbrella,Rain,43,OK
+2025-09-11,Gumboots,Rain,59,OK
+2025-09-11,Coffee,Rain,203,OK
+2025-09-11,Namkeen,Rain,82,OK
+2025-09-12,Heater,Rain,5,OK
+2025-09-12,Blanket,Rain,3,OK
+2025-09-12,Cotton Shirt,Rain,4,OK
+2025-09-12,Umbrella,Rain,41,OK
+2025-09-12,Gumboots,Rain,50,OK
+2025-09-12,Coffee,Rain,236,OK
+2025-09-12,Namkeen,Rain,71,OK
+2025-09-13,Heater,Rain,5,OK
+2025-09-13,Blanket,Rain,4,OK
+2025-09-13,Cotton Shirt,Rain,4,OK
+2025-09-13,Umbrella,Rain,34,OK
+2025-09-13,Gumboots,Rain,50,OK
+2025-09-13,Coffee,Rain,222,OK
+2025-09-13,Namkeen,Rain,74,OK
+2025-09-14,Heater,Rain,5,OK
+2025-09-14,Blanket,Rain,4,OK
+2025-09-14,Cotton Shirt,Rain,5,OK
+2025-09-14,Umbrella,Rain,38,OK
+2025-09-14,Gumboots,Rain,42,OK
+2025-09-14,Coffee,Rain,228,OK
+2025-09-14,Namkeen,Rain,72,OK
+2025-09-15,Heater,Clear,5,OK
+2025-09-15,Blanket,Clear,3,OK
+2025-09-15,Cotton Shirt,Clear,10,OK
+2025-09-15,Umbrella,Clear,4,OK
+2025-09-15,Gumboots,Clear,9,OK
+2025-09-15,Coffee,Clear,71,OK
+2025-09-15,Namkeen,Clear,62,OK
+2025-09-16,Heater,Rain,5,OK
+2025-09-16,Blanket,Rain,4,OK
+2025-09-16,Cotton Shirt,Rain,5,OK
+2025-09-16,Umbrella,Rain,35,OK
+2025-09-16,Gumboots,Rain,50,OK
+2025-09-16,Coffee,Rain,180,OK
+2025-09-16,Namkeen,Rain,86,OK
+2025-09-17,Heater,Rain,5,OK
+2025-09-17,Blanket,Rain,4,OK
+2025-09-17,Cotton Shirt,Rain,5,OK
+2025-09-17,Umbrella,Rain,38,OK
+2025-09-17,Gumboots,Rain,58,OK
+2025-09-17,Coffee,Rain,189,OK
+2025-09-17,Namkeen,Rain,69,OK
+2025-09-18,Heater,Rain,4,OK
+2025-09-18,Blanket,Rain,3,OK
+2025-09-18,Cotton Shirt,Rain,5,OK
+2025-09-18,Umbrella,Rain,33,OK
+2025-09-18,Gumboots,Rain,55,OK
+2025-09-18,Coffee,Rain,166,OK
+2025-09-18,Namkeen,Rain,74,OK
+2025-09-19,Heater,Clear,4,OK
+2025-09-19,Blanket,Clear,3,OK
+2025-09-19,Cotton Shirt,Clear,10,OK
+2025-09-19,Umbrella,Clear,4,OK
+2025-09-19,Gumboots,Clear,10,OK
+2025-09-19,Coffee,Clear,83,OK
+2025-09-19,Namkeen,Clear,57,OK
+2025-09-20,Heater,Rain,7,OK
+2025-09-20,Blanket,Rain,4,OK
+2025-09-20,Cotton Shirt,Rain,4,OK
+2025-09-20,Umbrella,Rain,40,OK
+2025-09-20,Gumboots,Rain,49,OK
+2025-09-20,Coffee,Rain,203,OK
+2025-09-20,Namkeen,Rain,59,OK
+2025-09-21,Heater,Rain,7,OK
+2025-09-21,Blanket,Rain,4,OK
+2025-09-21,Cotton Shirt,Rain,4,OK
+2025-09-21,Umbrella,Rain,45,OK
+2025-09-21,Gumboots,Rain,55,OK
+2025-09-21,Coffee,Rain,184,OK
+2025-09-21,Namkeen,Rain,76,OK
+2025-09-22,Heater,Rain,5,OK
+2025-09-22,Blanket,Rain,4,OK
+2025-09-22,Cotton Shirt,Rain,4,OK
+2025-09-22,Umbrella,Rain,40,OK
+2025-09-22,Gumboots,Rain,46,OK
+2025-09-22,Coffee,Rain,198,OK
+2025-09-22,Namkeen,Rain,79,OK
+2025-09-23,Heater,Rain,6,OK
+2025-09-23,Blanket,Rain,4,OK
+2025-09-23,Cotton Shirt,Rain,4,OK
+2025-09-23,Umbrella,Rain,34,OK
+2025-09-23,Gumboots,Rain,57,OK
+2025-09-23,Coffee,Rain,197,OK
+2025-09-23,Namkeen,Rain,82,OK
+2025-09-24,Heater,Clear,4,OK
+2025-09-24,Blanket,Clear,3,OK
+2025-09-24,Cotton Shirt,Clear,9,OK
+2025-09-24,Umbrella,Clear,4,OK
+2025-09-24,Gumboots,Clear,11,OK
+2025-09-24,Coffee,Clear,83,OK
+2025-09-24,Namkeen,Clear,61,OK
+2025-09-25,Heater,Clear,5,OK
+2025-09-25,Blanket,Clear,4,OK
+2025-09-25,Cotton Shirt,Clear,10,OK
+2025-09-25,Umbrella,Clear,5,OK
+2025-09-25,Gumboots,Clear,8,OK
+2025-09-25,Coffee,Clear,81,OK
+2025-09-25,Namkeen,Clear,56,OK
+2025-09-26,Heater,Clear,4,OK
+2025-09-26,Blanket,Clear,4,OK
+2025-09-26,Cotton Shirt,Clear,10,OK
+2025-09-26,Umbrella,Clear,4,OK
+2025-09-26,Gumboots,Clear,10,OK
+2025-09-26,Coffee,Clear,79,OK
+2025-09-26,Namkeen,Clear,71,OK
+2025-09-27,Heater,Rain,6,OK
+2025-09-27,Blanket,Rain,3,OK
+2025-09-27,Cotton Shirt,Rain,4,OK
+2025-09-27,Umbrella,Rain,38,OK
+2025-09-27,Gumboots,Rain,55,OK
+2025-09-27,Coffee,Rain,186,OK
+2025-09-27,Namkeen,Rain,68,OK
+2025-09-28,Heater,Clear,4,OK
+2025-09-28,Blanket,Clear,3,OK
+2025-09-28,Cotton Shirt,Clear,9,OK
+2025-09-28,Umbrella,Clear,5,OK
+2025-09-28,Gumboots,Clear,11,OK
+2025-09-28,Coffee,Clear,67,OK
+2025-09-28,Namkeen,Clear,57,OK
+2025-09-29,Heater,Rain,6,OK
+2025-09-29,Blanket,Rain,4,OK
+2025-09-29,Cotton Shirt,Rain,5,OK
+2025-09-29,Umbrella,Rain,32,OK
+2025-09-29,Gumboots,Rain,41,OK
+2025-09-29,Coffee,Rain,188,OK
+2025-09-29,Namkeen,Rain,73,OK
+2025-09-30,Heater,Rain,6,OK
+2025-09-30,Blanket,Rain,5,OK
+2025-09-30,Cotton Shirt,Rain,4,OK
+2025-09-30,Umbrella,Rain,41,OK
+2025-09-30,Gumboots,Rain,43,OK
+2025-09-30,Coffee,Rain,183,OK
+2025-09-30,Namkeen,Rain,72,OK
+2025-10-01,Heater,Clear,5,OK
+2025-10-01,Blanket,Clear,4,OK
+2025-10-01,Cotton Shirt,Clear,10,OK
+2025-10-01,Umbrella,Clear,0,OK
+2025-10-01,Gumboots,Clear,0,OK
+2025-10-01,Coffee,Clear,84,OK
+2025-10-01,Namkeen,Clear,71,OK
+2025-10-02,Heater,Rain,6,OK
+2025-10-02,Blanket,Rain,5,OK
+2025-10-02,Cotton Shirt,Rain,5,OK
+2025-10-02,Umbrella,Rain,3,OK
+2025-10-02,Gumboots,Rain,4,OK
+2025-10-02,Coffee,Rain,217,OK
+2025-10-02,Namkeen,Rain,68,OK
+2025-10-03,Heater,Clear,5,OK
+2025-10-03,Blanket,Clear,4,OK
+2025-10-03,Cotton Shirt,Clear,10,OK
+2025-10-03,Umbrella,Clear,0,OK
+2025-10-03,Gumboots,Clear,0,OK
+2025-10-03,Coffee,Clear,95,OK
+2025-10-03,Namkeen,Clear,49,OK
+2025-10-04,Heater,Clear,5,OK
+2025-10-04,Blanket,Clear,4,OK
+2025-10-04,Cotton Shirt,Clear,8,OK
+2025-10-04,Umbrella,Clear,0,OK
+2025-10-04,Gumboots,Clear,0,OK
+2025-10-04,Coffee,Clear,77,OK
+2025-10-04,Namkeen,Clear,57,OK
+2025-10-05,Heater,Clear,4,OK
+2025-10-05,Blanket,Clear,3,OK
+2025-10-05,Cotton Shirt,Clear,11,OK
+2025-10-05,Umbrella,Clear,0,OK
+2025-10-05,Gumboots,Clear,1,OK
+2025-10-05,Coffee,Clear,64,OK
+2025-10-05,Namkeen,Clear,60,OK
+2025-10-06,Heater,Clear,5,OK
+2025-10-06,Blanket,Clear,3,OK
+2025-10-06,Cotton Shirt,Clear,8,OK
+2025-10-06,Umbrella,Clear,0,OK
+2025-10-06,Gumboots,Clear,0,OK
+2025-10-06,Coffee,Clear,87,OK
+2025-10-06,Namkeen,Clear,66,OK
+2025-10-07,Heater,Clear,4,OK
+2025-10-07,Blanket,Clear,4,OK
+2025-10-07,Cotton Shirt,Clear,11,OK
+2025-10-07,Umbrella,Clear,0,OK
+2025-10-07,Gumboots,Clear,1,OK
+2025-10-07,Coffee,Clear,78,OK
+2025-10-07,Namkeen,Clear,58,OK
+2025-10-08,Heater,Clear,5,OK
+2025-10-08,Blanket,Clear,3,OK
+2025-10-08,Cotton Shirt,Clear,9,OK
+2025-10-08,Umbrella,Clear,0,OK
+2025-10-08,Gumboots,Clear,1,OK
+2025-10-08,Coffee,Clear,65,OK
+2025-10-08,Namkeen,Clear,69,OK
+2025-10-09,Heater,Rain,6,OK
+2025-10-09,Blanket,Rain,4,OK
+2025-10-09,Cotton Shirt,Rain,5,OK
+2025-10-09,Umbrella,Rain,3,OK
+2025-10-09,Gumboots,Rain,5,OK
+2025-10-09,Coffee,Rain,198,OK
+2025-10-09,Namkeen,Rain,61,OK
+2025-10-10,Heater,Rain,5,OK
+2025-10-10,Blanket,Rain,4,OK
+2025-10-10,Cotton Shirt,Rain,5,OK
+2025-10-10,Umbrella,Rain,4,OK
+2025-10-10,Gumboots,Rain,5,OK
+2025-10-10,Coffee,Rain,202,OK
+2025-10-10,Namkeen,Rain,59,OK
+2025-10-11,Heater,Clear,4,OK
+2025-10-11,Blanket,Clear,3,OK
+2025-10-11,Cotton Shirt,Clear,8,OK
+2025-10-11,Umbrella,Clear,0,OK
+2025-10-11,Gumboots,Clear,0,OK
+2025-10-11,Coffee,Clear,94,OK
+2025-10-11,Namkeen,Clear,64,OK
+2025-10-12,Heater,Clear,5,OK
+2025-10-12,Blanket,Clear,3,OK
+2025-10-12,Cotton Shirt,Clear,8,OK
+2025-10-12,Umbrella,Clear,0,OK
+2025-10-12,Gumboots,Clear,0,OK
+2025-10-12,Coffee,Clear,95,OK
+2025-10-12,Namkeen,Clear,55,OK
+2025-10-13,Heater,Clear,5,OK
+2025-10-13,Blanket,Clear,4,OK
+2025-10-13,Cotton Shirt,Clear,10,OK
+2025-10-13,Umbrella,Clear,0,OK
+2025-10-13,Gumboots,Clear,0,OK
+2025-10-13,Coffee,Clear,75,OK
+2025-10-13,Namkeen,Clear,57,OK
+2025-10-14,Heater,Clear,4,OK
+2025-10-14,Blanket,Clear,4,OK
+2025-10-14,Cotton Shirt,Clear,9,OK
+2025-10-14,Umbrella,Clear,0,OK
+2025-10-14,Gumboots,Clear,0,OK
+2025-10-14,Coffee,Clear,85,OK
+2025-10-14,Namkeen,Clear,63,OK
+2025-10-15,Heater,Rain,6,OK
+2025-10-15,Blanket,Rain,4,OK
+2025-10-15,Cotton Shirt,Rain,5,OK
+2025-10-15,Umbrella,Rain,3,OK
+2025-10-15,Gumboots,Rain,5,OK
+2025-10-15,Coffee,Rain,236,OK
+2025-10-15,Namkeen,Rain,63,OK
+2025-10-16,Heater,Clear,5,OK
+2025-10-16,Blanket,Clear,4,OK
+2025-10-16,Cotton Shirt,Clear,11,OK
+2025-10-16,Umbrella,Clear,0,OK
+2025-10-16,Gumboots,Clear,1,OK
+2025-10-16,Coffee,Clear,72,OK
+2025-10-16,Namkeen,Clear,55,OK
+2025-10-17,Heater,Clear,4,OK
+2025-10-17,Blanket,Clear,4,OK
+2025-10-17,Cotton Shirt,Clear,9,OK
+2025-10-17,Umbrella,Clear,0,OK
+2025-10-17,Gumboots,Clear,0,OK
+2025-10-17,Coffee,Clear,82,OK
+2025-10-17,Namkeen,Clear,50,OK
+2025-10-18,Heater,Clear,4,OK
+2025-10-18,Blanket,Clear,4,OK
+2025-10-18,Cotton Shirt,Clear,10,OK
+2025-10-18,Umbrella,Clear,0,OK
+2025-10-18,Gumboots,Clear,1,OK
+2025-10-18,Coffee,Clear,83,OK
+2025-10-18,Namkeen,Clear,66,OK
+2025-10-19,Heater,Clear,5,OK
+2025-10-19,Blanket,Clear,4,OK
+2025-10-19,Cotton Shirt,Clear,11,OK
+2025-10-19,Umbrella,Clear,0,OK
+2025-10-19,Gumboots,Clear,1,OK
+2025-10-19,Coffee,Clear,67,OK
+2025-10-19,Namkeen,Clear,66,OK
+2025-10-20,Heater,Clear,5,OK
+2025-10-20,Blanket,Clear,3,OK
+2025-10-20,Cotton Shirt,Clear,10,OK
+2025-10-20,Umbrella,Clear,0,OK
+2025-10-20,Gumboots,Clear,0,OK
+2025-10-20,Coffee,Clear,79,OK
+2025-10-20,Namkeen,Clear,51,OK
+2025-10-21,Heater,Rain,7,OK
+2025-10-21,Blanket,Rain,3,OK
+2025-10-21,Cotton Shirt,Rain,4,OK
+2025-10-21,Umbrella,Rain,4,OK
+2025-10-21,Gumboots,Rain,5,OK
+2025-10-21,Coffee,Rain,221,OK
+2025-10-21,Namkeen,Rain,66,OK
+2025-10-22,Heater,Rain,6,OK
+2025-10-22,Blanket,Rain,4,OK
+2025-10-22,Cotton Shirt,Rain,5,OK
+2025-10-22,Umbrella,Rain,4,OK
+2025-10-22,Gumboots,Rain,5,OK
+2025-10-22,Coffee,Rain,173,OK
+2025-10-22,Namkeen,Rain,61,OK
+2025-10-23,Heater,Clear,5,OK
+2025-10-23,Blanket,Clear,4,OK
+2025-10-23,Cotton Shirt,Clear,8,OK
+2025-10-23,Umbrella,Clear,0,OK
+2025-10-23,Gumboots,Clear,1,OK
+2025-10-23,Coffee,Clear,85,OK
+2025-10-23,Namkeen,Clear,70,OK
+2025-10-24,Heater,Clear,5,OK
+2025-10-24,Blanket,Clear,4,OK
+2025-10-24,Cotton Shirt,Clear,8,OK
+2025-10-24,Umbrella,Clear,0,OK
+2025-10-24,Gumboots,Clear,0,OK
+2025-10-24,Coffee,Clear,76,OK
+2025-10-24,Namkeen,Clear,65,OK
+2025-10-25,Heater,Clear,4,OK
+2025-10-25,Blanket,Clear,4,OK
+2025-10-25,Cotton Shirt,Clear,10,OK
+2025-10-25,Umbrella,Clear,0,OK
+2025-10-25,Gumboots,Clear,1,OK
+2025-10-25,Coffee,Clear,87,OK
+2025-10-25,Namkeen,Clear,49,OK
+2025-10-26,Heater,Clear,5,OK
+2025-10-26,Blanket,Clear,4,OK
+2025-10-26,Cotton Shirt,Clear,9,OK
+2025-10-26,Umbrella,Clear,0,OK
+2025-10-26,Gumboots,Clear,1,OK
+2025-10-26,Coffee,Clear,89,OK
+2025-10-26,Namkeen,Clear,53,OK
+2025-10-27,Heater,Clear,4,OK
+2025-10-27,Blanket,Clear,4,OK
+2025-10-27,Cotton Shirt,Clear,8,OK
+2025-10-27,Umbrella,Clear,0,OK
+2025-10-27,Gumboots,Clear,1,OK
+2025-10-27,Coffee,Clear,69,OK
+2025-10-27,Namkeen,Clear,59,OK
+2025-10-28,Heater,Clear,4,OK
+2025-10-28,Blanket,Clear,3,OK
+2025-10-28,Cotton Shirt,Clear,11,OK
+2025-10-28,Umbrella,Clear,0,OK
+2025-10-28,Gumboots,Clear,0,OK
+2025-10-28,Coffee,Clear,79,OK
+2025-10-28,Namkeen,Clear,53,OK
+2025-10-29,Heater,Clear,5,OK
+2025-10-29,Blanket,Clear,4,OK
+2025-10-29,Cotton Shirt,Clear,9,OK
+2025-10-29,Umbrella,Clear,0,OK
+2025-10-29,Gumboots,Clear,1,OK
+2025-10-29,Coffee,Clear,86,OK
+2025-10-29,Namkeen,Clear,64,OK
+2025-10-30,Heater,Clear,5,OK
+2025-10-30,Blanket,Clear,4,OK
+2025-10-30,Cotton Shirt,Clear,9,OK
+2025-10-30,Umbrella,Clear,0,OK
+2025-10-30,Gumboots,Clear,1,OK
+2025-10-30,Coffee,Clear,70,OK
+2025-10-30,Namkeen,Clear,57,OK
+2025-10-31,Heater,Clear,4,OK
+2025-10-31,Blanket,Clear,3,OK
+2025-10-31,Cotton Shirt,Clear,9,OK
+2025-10-31,Umbrella,Clear,0,OK
+2025-10-31,Gumboots,Clear,0,OK
+2025-10-31,Coffee,Clear,85,OK
+2025-10-31,Namkeen,Clear,69,OK
+2025-11-01,Heater,Clear,59,OK
+2025-11-01,Blanket,Clear,34,OK
+2025-11-01,Cotton Shirt,Clear,9,OK
+2025-11-01,Umbrella,Clear,0,OK
+2025-11-01,Gumboots,Clear,1,OK
+2025-11-01,Coffee,Clear,81,OK
+2025-11-01,Namkeen,Clear,49,OK
+2025-11-02,Heater,Clear,50,OK
+2025-11-02,Blanket,Clear,38,OK
+2025-11-02,Cotton Shirt,Clear,8,OK
+2025-11-02,Umbrella,Clear,0,OK
+2025-11-02,Gumboots,Clear,0,OK
+2025-11-02,Coffee,Clear,79,OK
+2025-11-02,Namkeen,Clear,50,OK
+2025-11-03,Heater,Rain,67,OK
+2025-11-03,Blanket,Rain,51,OK
+2025-11-03,Cotton Shirt,Rain,4,OK
+2025-11-03,Umbrella,Rain,3,OK
+2025-11-03,Gumboots,Rain,4,OK
+2025-11-03,Coffee,Rain,191,OK
+2025-11-03,Namkeen,Rain,73,OK
+2025-11-04,Heater,Clear,49,OK
+2025-11-04,Blanket,Clear,43,OK
+2025-11-04,Cotton Shirt,Clear,9,OK
+2025-11-04,Umbrella,Clear,0,OK
+2025-11-04,Gumboots,Clear,1,OK
+2025-11-04,Coffee,Clear,76,OK
+2025-11-04,Namkeen,Clear,62,OK
+2025-11-05,Heater,Clear,48,OK
+2025-11-05,Blanket,Clear,40,OK
+2025-11-05,Cotton Shirt,Clear,8,OK
+2025-11-05,Umbrella,Clear,0,OK
+2025-11-05,Gumboots,Clear,0,OK
+2025-11-05,Coffee,Clear,68,OK
+2025-11-05,Namkeen,Clear,50,OK
+2025-11-06,Heater,Clear,42,OK
+2025-11-06,Blanket,Clear,39,OK
+2025-11-06,Cotton Shirt,Clear,10,OK
+2025-11-06,Umbrella,Clear,0,OK
+2025-11-06,Gumboots,Clear,0,OK
+2025-11-06,Coffee,Clear,80,OK
+2025-11-06,Namkeen,Clear,53,OK
+2025-11-07,Heater,Rain,53,OK
+2025-11-07,Blanket,Rain,50,OK
+2025-11-07,Cotton Shirt,Rain,5,OK
+2025-11-07,Umbrella,Rain,4,OK
+2025-11-07,Gumboots,Rain,4,OK
+2025-11-07,Coffee,Rain,171,OK
+2025-11-07,Namkeen,Rain,57,OK
+2025-11-08,Heater,Clear,51,OK
+2025-11-08,Blanket,Clear,35,OK
+2025-11-08,Cotton Shirt,Clear,10,OK
+2025-11-08,Umbrella,Clear,0,OK
+2025-11-08,Gumboots,Clear,1,OK
+2025-11-08,Coffee,Clear,70,OK
+2025-11-08,Namkeen,Clear,59,OK
+2025-11-09,Heater,Rain,68,OK
+2025-11-09,Blanket,Rain,40,OK
+2025-11-09,Cotton Shirt,Rain,5,OK
+2025-11-09,Umbrella,Rain,3,OK
+2025-11-09,Gumboots,Rain,4,OK
+2025-11-09,Coffee,Rain,195,OK
+2025-11-09,Namkeen,Rain,68,OK
+2025-11-10,Heater,Rain,56,OK
+2025-11-10,Blanket,Rain,35,OK
+2025-11-10,Cotton Shirt,Rain,5,OK
+2025-11-10,Umbrella,Rain,3,OK
+2025-11-10,Gumboots,Rain,5,OK
+2025-11-10,Coffee,Rain,235,OK
+2025-11-10,Namkeen,Rain,69,OK
+2025-11-11,Heater,Clear,55,OK
+2025-11-11,Blanket,Clear,38,OK
+2025-11-11,Cotton Shirt,Clear,11,OK
+2025-11-11,Umbrella,Clear,0,OK
+2025-11-11,Gumboots,Clear,0,OK
+2025-11-11,Coffee,Clear,75,OK
+2025-11-11,Namkeen,Clear,48,OK
+2025-11-12,Heater,Clear,46,OK
+2025-11-12,Blanket,Clear,39,OK
+2025-11-12,Cotton Shirt,Clear,9,OK
+2025-11-12,Umbrella,Clear,0,OK
+2025-11-12,Gumboots,Clear,1,OK
+2025-11-12,Coffee,Clear,81,OK
+2025-11-12,Namkeen,Clear,51,OK
+2025-11-13,Heater,Clear,57,OK
+2025-11-13,Blanket,Clear,40,OK
+2025-11-13,Cotton Shirt,Clear,11,OK
+2025-11-13,Umbrella,Clear,0,OK
+2025-11-13,Gumboots,Clear,0,OK
+2025-11-13,Coffee,Clear,74,OK
+2025-11-13,Namkeen,Clear,69,OK
+2025-11-14,Heater,Clear,46,OK
+2025-11-14,Blanket,Clear,37,OK
+2025-11-14,Cotton Shirt,Clear,9,OK
+2025-11-14,Umbrella,Clear,0,OK
+2025-11-14,Gumboots,Clear,0,OK
+2025-11-14,Coffee,Clear,95,OK
+2025-11-14,Namkeen,Clear,48,OK
+2025-11-15,Heater,Clear,55,OK
+2025-11-15,Blanket,Clear,46,OK
+2025-11-15,Cotton Shirt,Clear,11,OK
+2025-11-15,Umbrella,Clear,0,OK
+2025-11-15,Gumboots,Clear,0,OK
+2025-11-15,Coffee,Clear,67,OK
+2025-11-15,Namkeen,Clear,68,OK
+2025-11-16,Heater,Clear,56,OK
+2025-11-16,Blanket,Clear,43,OK
+2025-11-16,Cotton Shirt,Clear,9,OK
+2025-11-16,Umbrella,Clear,0,OK
+2025-11-16,Gumboots,Clear,1,OK
+2025-11-16,Coffee,Clear,69,OK
+2025-11-16,Namkeen,Clear,61,OK
+2025-11-17,Heater,Clear,40,OK
+2025-11-17,Blanket,Clear,36,OK
+2025-11-17,Cotton Shirt,Clear,11,OK
+2025-11-17,Umbrella,Clear,0,OK
+2025-11-17,Gumboots,Clear,0,OK
+2025-11-17,Coffee,Clear,88,OK
+2025-11-17,Namkeen,Clear,60,OK
+2025-11-18,Heater,Clear,47,OK
+2025-11-18,Blanket,Clear,45,OK
+2025-11-18,Cotton Shirt,Clear,11,OK
+2025-11-18,Umbrella,Clear,0,OK
+2025-11-18,Gumboots,Clear,1,OK
+2025-11-18,Coffee,Clear,92,OK
+2025-11-18,Namkeen,Clear,50,OK
+2025-11-19,Heater,Clear,48,OK
+2025-11-19,Blanket,Clear,38,OK
+2025-11-19,Cotton Shirt,Clear,11,OK
+2025-11-19,Umbrella,Clear,0,OK
+2025-11-19,Gumboots,Clear,1,OK
+2025-11-19,Coffee,Clear,82,OK
+2025-11-19,Namkeen,Clear,59,OK
